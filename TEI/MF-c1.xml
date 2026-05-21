@@ -28,7 +28,7 @@
                   
                     
                     <lg n="1" rhyme="abbccb"> 
-                        <l>Aquí me pongo a cant<rhyme label="ar" type="aguda">ar</rhyme></l>
+                        <l n="1">Aquí me pongo a cant<rhyme label="ar" type="aguda">ar</rhyme></l>
                         <l>Al compás de la <term ref="1">vigü<rhyme label="ela" type="grave">ela</rhyme></term>,</l>
                         <l>Que el hombre que lo desv<rhyme label="ela" type="grave">ela</rhyme></l>
                         <l>Una pena estraordin<rhyme label="aria" type="grave">aria</rhyme>,</l>
