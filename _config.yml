@@ -19,10 +19,10 @@ source-code: https://github.com/AgustinaRyckeboer/nuevoMini-MF
 # title of site appears in banner
 title: El Gaucho Martín Fierro por José Hernández
 # tagline, a short phrase that will appear throughout the site in the top banner
-# tagline: 
+# tagline: aquí me pongo a cantar al compás de la vigüela
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: Edición digital de la primera parte del poema Martín Fierro basada en la primera publicación del mismo en 1872
+description: Edición digital de la primera parte del poema Martín Fierro basada en la primera publicación del mismo en 1872.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: edición digital; Martín Fierro; poesía gaucha
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
