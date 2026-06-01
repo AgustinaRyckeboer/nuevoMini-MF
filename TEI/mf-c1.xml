@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:\C:\Users\María Agustina\Documents\HDMC\MiniFierro\esquema_verso_.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
@@ -108,7 +108,7 @@
                         <l>Las coplas me van brot<rhyme label="ando" type="grave">ando</rhyme></l>
                         <l>Como agua de manant<rhyme label="ial" type="aguda">ial</rhyme>.</l>
                     </lg>
-<note type="episodio" xml:id="negro"></note>
+                    
                     <lg n="10" rhyme="abbcbc">
                         <l>Con la guitarra en la m<rhyme label="ano" type="grave">ano</rhyme></l>
                         <l>Ni las moscas se me arr<rhyme label="iman" type="grave">iman</rhyme>,</l>
