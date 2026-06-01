@@ -4,7 +4,7 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>El gaucho Martin Fierro</title>
+                    <title xml:id="mf-c3">El gaucho Martin Fierro</title>
                     <author>José Hernández</author>
                     <editor resp= "1">Maria Agustina Ryckeboer</editor>
                 </titleStmt>
