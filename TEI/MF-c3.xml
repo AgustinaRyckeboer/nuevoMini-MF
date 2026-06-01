@@ -26,7 +26,7 @@
                 
                 <lg type="poema"  style="sexteto" unisonancia="singular" isometrismo="isométrico"  isoestrofismo="isoestrófico" asonancia="consonante" met="6x8">
 
-                <lg n="49" rhyme="abbcbc">
+                <lg type="estrofa" n="49" rhyme="abbcbc">
                     <l>Tuve en mi pago en un t<rhyme label="iempo" type="grave">iempo</rhyme></l>
                     <l>Hijos, hacienda y muj<rhyme label="er" type="aguda">er</rhyme>,</l>
                     <l>Pero empeZé á padec<rhyme label="er" type="aguda">er</rhyme></l>
@@ -35,7 +35,7 @@
                     <l>Tan sólo hallé la <term ref="28">tap<rhyme label="era" type="grave">era</rhyme></term>.</l>
                 </lg>
 
-                <lg n="50" rhyme="abbccb">
+                <lg type="estrofa" n="50" rhyme="abbccb">
                     <l>Sosegao vivia en mi r<rhyme label="ancho" type="grave">ancho</rhyme></l>
                     <l>Como el pájaro en su n<rhyme label="ido" type="grave">ido</rhyme>-</l>
                     <l>Allí mis hijos quer<rhyme label="idos" type="grave">idos</rhyme></l>
@@ -44,7 +44,7 @@
                     <l>Lamentar el bien perd<rhyme label="ido" type="grave">ido</rhyme>.</l>
                 </lg>
 
-                <lg n="51" rhyme="abbccb">
+                <lg type="estrofa" n="51" rhyme="abbccb">
                     <l>Mi gala en las pulper<rhyme label="ias" type="aguda">ias</rhyme></l>
                     <l>Era, cuando habia mas g<rhyme label="ente" type="grave">ente</rhyme>,</l>
                     <l>Ponerme medio cal<rhyme label="iente" type="grave">iente</rhyme>,</l>
@@ -53,7 +53,7 @@
                     <l>Como agua de la virt<rhyme label="iente" type="grave">iente</rhyme>.</l>                   
                 </lg>
 
-                <lg n="52"  rhyme="abbccb"> 
+                <lg type="estrofa" n="52"  rhyme="abbccb"> 
                     <l>Cantando estaba una v<rhyme label="ez" type="aguda">ez</rhyme></l>
                     <l>En una gran divers<rhyme label="ion" type="aguda">ion</rhyme>;</l>
                     <l>Y aprovechó la ocas<rhyme label="ion" type="aguda">ion</rhyme></l>
@@ -62,7 +62,7 @@
                     <l>Hizo una arriada en mont<rhyme label="on" type="aguda">on</rhyme>.</l>                   
                 </lg>
 
-                <lg n="53" rhyme="abbccb">
+                <lg type="estrofa" n="53" rhyme="abbccb">
                     <l>Juyeron los mas <term ref="30">matr<rhyme label="eros" type="grave">eros</rhyme></term></l>
                     <l>Y lograron escap<rhyme label="ar" type="aguda">ar</rhyme>-</l>
                     <l>Yo no quise dispar<rhyme label="ar" type="aguda">ar</rhyme>-</l>
@@ -71,7 +71,7 @@
                     <l>Y ansí me dejé agarr<rhyme label="ar" type="aguda">ar</rhyme>.</l>
                 </lg>
 
-                <lg n="54" rhyme="abbccb">
+                <lg type="estrofa" n="54" rhyme="abbccb">
                     <l>Allí un gringo con un <rhyme label="organo" type="esdrújula">órgano</rhyme></l>
                     <l>Y una mona que bail<rhyme label="aba" type="grave">aba</rhyme></l>
                     <l>Haciéndonos rair est<rhyme label="aba" type="grave">aba</rhyme></l>
@@ -80,7 +80,7 @@
                     <l>Lo viera cómo llor<rhyme label="aba" type="grave">aba</rhyme>.</l>
                 </lg>
 
-                <lg n="55" rhyme="abbccb">
+                <lg type="estrofa" n="55" rhyme="abbccb">
                     <l>Hasta un Inglés <term ref="31">sangiad<rhyme label="or" type="aguda">or</rhyme></term></l>
                     <l>Que decia en la última gu<rhyme label="erra" type="grave">erra</rhyme>,</l>
                     <l>Que él era de <term ref="32">Inca-la-p<rhyme label="erra" type="grave">erra</rhyme></term></l>
@@ -89,7 +89,7 @@
                     <l>A guarecerse en la s<rhyme label="ierra" type="grave">ierra</rhyme>.</l>                    
                 </lg>
 
-                <lg n="56" rhyme="abbcbc">
+                <lg type="estrofa" n="56" rhyme="abbcbc">
                     <l>Ni los mirones salv<rhyme label="aron" type="grave">aron</rhyme></l>
                     <l>De esa arriada de mi fl<rhyme label="or" type="aguda">or</rhyme>-</l>
                     <l>Fué <term ref="33">acoyarao</term> el cant<rhyme label="or" type="aguda">or</rhyme></l>
@@ -98,7 +98,7 @@
                     <l>Logró salvar la patr<rhyme label="ona" type="grave">ona</rhyme>.</l>
                 </lg>
 
-                <lg n="57" rhyme="abbccb">
+                <lg type="estrofa" n="57" rhyme="abbccb">
                     <l>Formaron un conting<rhyme label="ente" type="grave">ente</rhyme></l>
                     <l>Con los que en el baile arri<rhyme label="aron" type="grave">aron</rhyme>-</l>
                     <l>Con otros nos <term ref="34">mestur<rhyme label="aron" type="grave">aron</rhyme></term></l>
@@ -107,7 +107,7 @@
                     <l>Ni los diablos las pens<rhyme label="aron" type="grave">aron</rhyme>.</l>                    
                 </lg>
 
-                <lg n="58" rhyme="abbccb">
+                <lg type="estrofa" n="58" rhyme="abbccb">
                     <l>A mí el Juez me tomó entre <rhyme label="ojos" type="grave">ojos</rhyme></l>
                     <l>En la ultima votac<rhyme label="ion" type="aguda">ion</rhyme>-</l>
                     <l>Me le habia hecho el remol<rhyme label="on" type="aguda">on</rhyme></l>
@@ -116,7 +116,7 @@
                     <l>A los de la esposic<rhyme label="ion" type="aguda">ion</rhyme>.</l>
                 </lg>
 
-                <lg n="59" rhyme="abbccb">
+                <lg type="estrofa" n="59" rhyme="abbccb">
                     <l>Y ansí sufrí ese cast<rhyme label="igo" type="grave">igo</rhyme></l>
                     <l>Tal vez por culpas ag<rhyme label="enas" type="grave">enas</rhyme>-</l>
                     <l>Que sean malas ó sean gü<rhyme label="enas" type="grave">enas</rhyme></l>
@@ -125,7 +125,7 @@
                     <l>Y esas cosas no me enll<rhyme label="enan" type="grave">enan</rhyme>.</l>
                 </lg>
 
-                <lg n="60" rhyme="abbccb">
+                <lg type="estrofa" n="60" rhyme="abbccb">
                     <l>Al mandarnos nos hic<rhyme label="ieron" type="grave">ieron</rhyme></l>
                     <l>Mas promesas que á un alt<rhyme label="ar" type="aguda">ar</rhyme>-</l>
                     <l>El Juez nos jué á <orig>ploclam<rhyme label="ar" type="aguda">ar</rhyme></orig></l>
@@ -134,7 +134,7 @@
                     <l>"Los van á ir á revel<rhyme label="ar" type="aguda">ar</rhyme>."</l>                   
                 </lg>
 
-                <lg n="61" rhyme="abbccb">
+                <lg type="estrofa" n="61" rhyme="abbccb">
                     <l>Yo llevé un <term ref="35">moro de n<rhyme label="umero" type="esdrújula">úmero</rhyme></term>,</l>
                     <l>Sobresaliente el mat<rhyme label="ucho" type="grave">ucho</rhyme>!</l>
                     <l>Con él gané en Ayac<rhyme label="ucho" type="grave">ucho</rhyme>,</l>
@@ -143,7 +143,7 @@
                     <l>Un pingo pa fiarle un p<rhyme label="ucho" type="grave">ucho</rhyme>-.</l>
                 </lg>
 
-                <lg n="62" rhyme="abbccb">
+                <lg type="estrofa" n="62" rhyme="abbccb">
                     <l>Y cargué sin dar mas g<rhyme label="ueltas" type="grave">üeltas</rhyme></l>
                     <l>Con las prendas que ten<rhyme label="ia" type="grave">ía</rhyme>,</l>
                     <l><term ref="36">Gergas</term>, poncho, cuanto hab<rhyme label="ia" type="grave">ia</rhyme></l>
@@ -152,7 +152,7 @@
                     <l>Medio desnuda ese d<rhyme label="ia" type="grave">ía</rhyme>.</l>
                 </lg>
 
-                <lg n="63" rhyme="abbccb">
+                <lg type="estrofa" n="63" rhyme="abbccb">
                     <l>No me falta una <term ref="37">g<rhyme label="uasca" type="grave">uasca</rhyme></term>,</l>
                     <l>Esa ocasion eché el r<rhyme label="esto" type="grave">esto</rhyme>:</l>
                     <l>Bozal, <term ref="38">maniador</term>, <term ref="21">cabr<rhyme label="esto" type="grave">esto</rhyme></term>,</l>
@@ -161,7 +161,7 @@
                     <l>Tal vez no creerá todo <rhyme label="esto" type="grave">esto</rhyme>!!</l>
                 </lg>
 
-                <lg n="64" rhyme="abbccb">
+                <lg type="estrofa" n="64" rhyme="abbccb">
                     <l>Ansi en mi moro <term ref="41">escarc<rhyme label="iando" type="grave">iando</rhyme></term></l> 
                     <l>Enderesé á la front<rhyme label="era" type="grave">era</rhyme>;</l>
                     <l><term ref="42">Aparcero</term>! si usté v<rhyme label="iera" type="grave">iera</rhyme></l>
@@ -170,7 +170,7 @@
                     <l>En aquella raton<rhyme label="era" type="grave">era</rhyme>-</l>
                 </lg>
 
-                <lg n="65" rhyme="abbcbc">
+                <lg type="estrofa" n="65" rhyme="abbcbc">
                     <l>De los pobres que alla hab<rhyme label="ia" type="grave">ia</rhyme></l>
                     <l>A ninguno lo larg<rhyme label="aron" type="grave">aron</rhyme></l>
                     <l>Los mas viejos resong<rhyme label="aron" type="grave">aron</rhyme></l>
@@ -179,7 +179,7 @@
                     <l>Y la cosa se acab<rhyme label="o" type="aguda">ó</rhyme>.</l>
                 </lg>
 
-                <lg n="66" rhyme="abbccb">
+                <lg type="estrofa" n="66" rhyme="abbccb">
                     <l>En la lista de la t<rhyme label="arde" type="grave">arde</rhyme></l>
                     <l>El Gefe nos cantó el p<rhyme label="unto" type="grave">unto</rhyme>,</l>
                     <l>Diciendo: "quinientos j<rhyme label="untos" type="grave">untos</rhyme></l>
@@ -188,7 +188,7 @@
                     <l>"Mas bien dese por dij<rhyme label="unto" type="grave">unto</rhyme>."</l>
                 </lg>
 
-                <lg n="67" rhyme="abbcbc">
+                <lg type="estrofa" n="67" rhyme="abbcbc">
                     <l>A naides le dieron <rhyme label="armas" type="grave">armas</rhyme></l>
                     <l>Pues toditas las que hab<rhyme label="ia" type="grave">ia</rhyme></l>
                     <l>El Coronel las ten<rhyme label="ia" type="grave">ia</rhyme></l>
@@ -197,7 +197,7 @@
                     <l>En que hubiera una invas<rhyme label="ion" type="aguda">ion</rhyme></l>
                 </lg>
 
-                <lg n="68" rhyme="abbccb">
+                <lg type="estrofa" n="68" rhyme="abbccb">
                     <l>Al principio nos dej<rhyme label="aron" type="grave">aron</rhyme></l>
                     <l>De haraganes criando s<rhyme label="ebo" type="grave">ebo</rhyme>,</l>
                     <l>Pero despues....no me atr<rhyme label="evo" type="grave">evo</rhyme>,</l>
@@ -206,7 +206,7 @@
                     <l>Como se trata á mal<rhyme label="evos" type="grave">evos</rhyme>.</l>
                 </lg>
 
-                <lg n="69" rhyme="abbcbc">
+                <lg type="estrofa" n="69" rhyme="abbcbc">
                     <l>Porque todo era jug<rhyme label="arle" type="grave">arle</rhyme></l>
                     <l>Por los lomos con la esp<rhyme label="ada" type="grave">ada</rhyme>,</l>
                     <l>Y aunque usté no hiciera n<rhyme label="ada" type="grave">ada</rhyme>,</l>
@@ -215,7 +215,7 @@
                     <l>Que lo dejaban enf<rhyme label="ermo" type="grave">ermo</rhyme>.</l>
                 </lg>
 
-                <lg n="70" rhyme="abbccb">
+                <lg type="estrofa" n="70" rhyme="abbccb">
                 <note> la rima en "c" es asonante</note> 
                     <l>Y que Indios-ni que serv<rhyme label="icio" type="grave">icio</rhyme></l>
                     <l>Si alli no habia ni Cuart<rhyme label="el" type="aguda">el</rhyme>-</l>
@@ -225,7 +225,7 @@
                     <l>Que las llevára el Inf<rhyme label="iel" type="aguda">iel</rhyme>.</l>
                 </lg>
 
-                <lg n="71" rhyme="abbccb">
+                <lg type="estrofa" n="71" rhyme="abbccb">
                     <l>Yo primero sembré tr<rhyme label="igo" type="grave">igo</rhyme></l>
                     <l>Y despues hice un corr<rhyme label="al" type="aguda">al</rhyme>,</l>
                     <l>Corté adobe pa un tap<rhyme label="ial" type="aguda">ial</rhyme>,</l>
@@ -234,7 +234,7 @@
                     <l>Sin que le larguen ni un r<rhyme label="ial" type="aguda">ial</rhyme>.</l>
                 </lg>
 
-                <lg n="72" rhyme="abbccb">
+                <lg type="estrofa" n="72" rhyme="abbccb">
                     <l>Y es lo pior de aquel enr<rhyme label="iedo" type="grave">iedo</rhyme></l>
                     <l>Que si uno anda hinchando el l<rhyme label="omo" type="grave">omo</rhyme></l>
                     <l>Ya se le apéan como pl<rhyme label="omo" type="grave">omo</rhyme>...</l>
@@ -243,7 +243,7 @@
                     <l>A mí no me gusta el c<rhyme label="omo" type="grave">ómo</rhyme>.</l>
                 </lg>
 
-                <lg n="73" rhyme="abbccb">
+                <lg type="estrofa" n="73" rhyme="abbccb">
                     <l>Más de un año nos tuv<rhyme label="ieron" type="grave">ieron</rhyme></l>
                     <l>En esos trabajos d<rhyme label="uros" type="grave">uros</rhyme>,-</l>
                     <l>Y los indios, le asig<rhyme label="uro" type="grave">uro</rhyme>,</l>
@@ -252,7 +252,7 @@
                     <l>Siempre andaban sin ap<rhyme label="uro" type="grave">uro</rhyme>.</l>
                 </lg>
 
-                <lg n="74" rhyme="abbccb">
+                <lg type="estrofa" n="74" rhyme="abbccb">
                     <l>A veces decia al volv<rhyme label="er" type="aguda">er</rhyme></l>
                     <l>Del campo la descub<rhyme label="ierta" type="grave">ierta</rhyme>,</l>
                     <l>Que estuviéramos al<rhyme label="erta" type="grave">erta</rhyme></l>
@@ -261,7 +261,7 @@
                     <l>O estaba una yegua m<rhyme label="uerta" type="grave">uerta</rhyme>.</l>
                 </lg>
 
-                <lg n="75" rhyme="abbccb">
+                <lg type="estrofa" n="75" rhyme="abbccb">
                     <l>Recién entónces sal<rhyme label="ia" type="grave">ia</rhyme></l>
                     <l>La órden de hacer la riun<rhyme label="ion" type="aguda">ion</rhyme>-</l>
                     <l>Y cáibamos al cant<rhyme label="on" type="aguda">on</rhyme></l>
@@ -270,7 +270,7 @@
                     <l>Que ivamos á hacer jab<rhyme label="on" type="aguda">ón</rhyme>.</l>
                 </lg>
 
-                <lg n="76" rhyme="abbccb">
+                <lg type="estrofa" n="76" rhyme="abbccb">
                     <l>Ay empezaba el af<rhyme label="an" type="aguda">an</rhyme></l>
                     <l>Se entiende, de puro v<rhyme label="icio" type="grave">icio</rhyme>,</l>
                     <l>De enseñarle el ejerc<rhyme label="icio" type="grave">icio</rhyme></l>
@@ -279,7 +279,7 @@
                     <l>Que nunca sabia su of<rhyme label="icio" type="grave">icio</rhyme>.</l>
                 </lg>
 
-                <lg n="77" rhyme="abbccb">
+                <lg type="estrofa" n="77" rhyme="abbccb">
                     <l>Daban entónces las <rhyme label="armas" type="grave">armas</rhyme></l>
                     <l>Pa defender los cant<rhyme label="ones" type="grave">ones</rhyme>,</l>
                     <l>Que eran lansas y lat<rhyme label="ones" type="grave">ones</rhyme></l>
@@ -288,7 +288,7 @@
                     <l>Porque no habia munic<rhyme label="iones" type="grave">iones</rhyme></l>
                 </lg>
 
-                <lg n="78" rhyme="abbcbc">
+                <lg type="estrofa" n="78" rhyme="abbcbc">
                     <l>Y chamuscao un sarg<rhyme label="ento" type="grave">ento</rhyme></l>
                     <l>Me contó que las ten<rhyme label="ian" type="grave">ian</rhyme></l>
                     <l>Pero que ellos la vend<rhyme label="ian" type="grave">ian</rhyme></l>
@@ -297,7 +297,7 @@
                     <l>Dele bala á los ñand<rhyme label="uces" type="grave">uces</rhyme>.</l>
                 </lg>
 
-                <lg n="79" rhyme="abbccb">
+                <lg type="estrofa" n="79" rhyme="abbccb">
                     <l>Y cuando se ivan los <rhyme label="indios" type="grave">Indios</rhyme></l>
                     <l>Con lo que habian manoti<rhyme label="ao" type="grave">ao</rhyme></l>
                     <l>Saliamos muy apur<rhyme label="aos" type="grave">aos</rhyme></l>
@@ -306,7 +306,7 @@
                     <l>Es porque no habian hall<rhyme label="ao" type="grave">ao</rhyme></l>
                 </lg>
 
-                <lg n="80" rhyme="abbccb">
+                <lg type="estrofa" n="80" rhyme="abbccb">
                     <l>Alli si, se ven desgr<rhyme label="acias" type="grave">acias</rhyme></l>
                     <l>Y lágrimas, y aflic<rhyme label="iones" type="grave">iones</rhyme>,</l>
                     <l>Naides le pida perd<rhyme label="ones" type="grave">ones</rhyme></l>
@@ -315,7 +315,7 @@
                     <l>Y quema las poblac<rhyme label="iones" type="grave">iones</rhyme>.</l>
                 </lg>
 
-                <lg n="81" rhyme="abbccb">
+                <lg type="estrofa" n="81" rhyme="abbccb">
                     <l>No salvan de su jur<rhyme label="or" type="aguda">or</rhyme></l>
                     <l>Ni los pobres <orig>anjel<rhyme label="itos" type="grave">itos</rhyme></orig>;</l>
                     <l>Viejos, mozos, y chiqu<rhyme label="itos" type="grave">itos</rhyme></l>
@@ -324,7 +324,7 @@
                     <l>Con la lanza y con los gr<rhyme label="itos" type="grave">itos</rhyme>.</l>
                 </lg>
 
-                <lg n="82" rhyme="abbccb">
+                <lg type="estrofa" n="82" rhyme="abbccb">
                     <l>Tiemblan las carnes al v<rhyme label="erlo" type="grave">erlo</rhyme></l>
                     <l>Volando al viento <corr>la</corr> c<rhyme label="erda" type="grave">erda</rhyme>-</l>
                     <l>La rienda en la mano izqu<rhyme label="ierda" type="grave">ierda</rhyme></l>
@@ -333,7 +333,7 @@
                     <l>Pues no hay lanzazo que p<rhyme label="ierda" type="grave">ierda</rhyme>.</l>
                 </lg>
 
-                <lg n="83" rhyme="abbccb">
+                <lg type="estrofa" n="83" rhyme="abbccb">
                     <l>Hace trotiadas trem<rhyme label="endas" type="grave">endas</rhyme></l>
                     <l>Dende el fondo del des<rhyme label="ierto" type="grave">ierto</rhyme>-</l>
                     <l>Ansi llega medio m<rhyme label="uerto" type="grave">uerto</rhyme></l>
@@ -342,7 +342,7 @@
                     <l>Qe día y noche está disp<rhyme label="ierto" type="grave">ierto</rhyme>.</l>
                 </lg>
 
-                <lg n="84" rhyme="abbccb">
+                <lg type="estrofa" n="84" rhyme="abbccb">
                     <l>Sabe manejar las b<rhyme label="olas" type="grave">olas</rhyme></l>
                     <l>Como naides las man<rhyme label="eja" type="grave">eja</rhyme></l>
                     <l>Cuanto el contrario se al<rhyme label="eja" type="grave">eja</rhyme></l>
@@ -351,7 +351,7 @@
                     <l>Es siguro que lo d<rhyme label="eja" type="grave">eja</rhyme>.</l>
                 </lg>
 
-                <lg n="85" rhyme="abbccb">
+                <lg type="estrofa" n="85" rhyme="abbccb">
                     <l>Y el Indio es como tort<rhyme label="uga" type="grave">uga</rhyme></l>
                     <l>De duro para <term ref="47">espich<rhyme label="ar" type="aguda">ar</rhyme></term>;</l>
                     <l>Si lo llega á destrip<rhyme label="ar" type="aguda">ar</rhyme></l>
@@ -360,7 +360,7 @@
                     <l>Y se agacha á dispar<rhyme label="ar" type="aguda">ar</rhyme>.</l>
                 </lg>
 
-                <lg n="86" rhyme="abbccb">
+                <lg type="estrofa" n="86" rhyme="abbccb">
                     <l>Hacian el robo á su g<rhyme label="usto" type="grave">usto</rhyme></l>
                     <l>Y despues se ivan de arr<rhyme label="iba" type="grave">iba</rhyme>,</l>
                     <l>Se llevaban las caut<rhyme label="ivas" type="grave">ivas</rhyme></l>
@@ -369,7 +369,7 @@
                     <l>A las pobrecitas, v<rhyme label="ivas" type="grave">ivas</rhyme>.</l>
                 </lg>
 
-                <lg n="87" rhyme="abbccb">
+                <lg type="estrofa" n="87" rhyme="abbccb">
                     <l>Ah! si partia el coraz<rhyme label="on" type="aguda">on</rhyme></l>
                     <l>Ver tantos males, can<rhyme label="ejo" type="grave">ejo</rhyme>!</l>
                     <l>Los perseguiamos de l<rhyme label="ejos" type="grave">ejos</rhyme></l>
@@ -378,7 +378,7 @@
                     <l>En unos bichocos v<rhyme label="iejos" type="grave">iejos</rhyme>!</l>
                 </lg>
 
-                <lg n="88" rhyme="abbccb">
+                <lg type="estrofa" n="88" rhyme="abbccb">
                     <l>Nos volviamos al cant<rhyme label="on" type="aguda">on</rhyme></l>
                     <l>A las dos ó tres jorn<rhyme label="adas" type="grave">adas</rhyme>;</l>
                     <l>Sembrando las caball<rhyme label="adas" type="grave">adas</rhyme>;</l>
@@ -387,7 +387,7 @@
                     <l>Que habian dejao resag<rhyme label="ada" type="grave">ada</rhyme>.</l>
                 </lg>
 
-                <lg n="89" rhyme="abbccb">
+                <lg type="estrofa" n="89" rhyme="abbccb">
                     <l>Una vez entre otras m<rhyme label="uchas" type="grave">uchas</rhyme>,</l>
                     <l>Tanto salir al bot<rhyme label="on" type="aguda">on</rhyme>,</l>
                     <l>Nos pegaron un mal<rhyme label="on" type="aguda">on</rhyme></l>
@@ -396,7 +396,7 @@
                     <l>Quedó dende esa ocas<rhyme label="ion" type="aguda">ion</rhyme>.</l>
                 </lg>
 
-                <lg n="90" rhyme="abbccb">
+                <lg type="estrofa" n="90" rhyme="abbccb">
                     <l>Habian estao escond<rhyme label="idos" type="grave">idos</rhyme></l>
                     <l>Aguaitando atrás de un c<rhyme label="erro" type="grave">erro</rhyme>...</l>
                     <l>¡Lo viera á su amigo F<rhyme label="ierro" type="grave">ierro</rhyme></l>
@@ -405,7 +405,7 @@
                     <l>En cuanto sonó un cenc<rhyme label="erro" type="grave">erro</rhyme>.</l>
                 </lg>
 
-                <lg n="91" rhyme="abbccb">
+                <lg type="estrofa" n="91" rhyme="abbccb">
                     <l>Al punto nos dispus<rhyme label="imos" type="grave">imos</rhyme></l>
                     <l>Aunque ellos eran bast<rhyme label="antes" type="grave">antes</rhyme>,</l>
                     <l>La formamos al inst<rhyme label="ante" type="grave">ante</rhyme></l>
@@ -414,7 +414,7 @@
                     <l>Hicieron fila adel<rhyme label="ante" type="grave">ante</rhyme>.</l>
                 </lg>
 
-                <lg n="92" rhyme="abbccb">
+                <lg type="estrofa" n="92" rhyme="abbccb">
                     <l>Se vinieron en trop<rhyme label="el" type="aguda">el</rhyme></l>
                     <l>Haciendo temblar la t<rhyme label="ierra" type="grave">ierra</rhyme>,</l>
                     <l>No soy manco pa la gu<rhyme label="erra" type="grave">erra</rhyme></l>
@@ -423,7 +423,7 @@
                     <l>Que habia boliao en la s<rhyme label="ierra" type="grave">ierra</rhyme>.</l>
                 </lg>
 
-                <lg n="93" rhyme="abbccb">
+                <lg type="estrofa" n="93" rhyme="abbccb">
                     <l>Que vocerio! que bar<rhyme label="ullo" type="grave">ullo</rhyme>!</l>
                     <l>Que apurar esa carr<rhyme label="era" type="grave">era</rhyme>!</l>
                     <l>La Indiada todita ent<rhyme label="era" type="grave">era</rhyme></l>
@@ -432,7 +432,7 @@
                     <l>Como <term ref="50">yeguada matr<rhyme label="era" type="grave">era</rhyme></term></l>
                 </lg>
 
-                <lg n="94" rhyme="abbcbc">
+                <lg type="estrofa" n="94" rhyme="abbcbc">
                     <l>Qué fletes traiban los b<rhyme label="arbaros" type="esdrújula">árbaros</rhyme></l>
                     <l>Como una luz de lij<rhyme label="eros" type="grave">eros</rhyme>-</l>
                     <l>Hicieron el <term ref="51">entrev<rhyme label="ero" type="grave">ero</rhyme></term></l>
@@ -441,7 +441,7 @@
                     <l>Nos escojian con la l<rhyme label="anza" type="grave">anza</rhyme></l>
                 </lg>
 
-                <lg n="95" rhyme="abbccb">
+                <lg type="estrofa" n="95" rhyme="abbccb">
                     <l>Al que le daban un chuz<rhyme label="azo" type="grave">aso</rhyme>,</l>
                     <l>Dificultoso es que s<rhyme label="ane" type="grave">ane</rhyme>.</l>
                     <l>En fin, para <term ref="52">no echar p<rhyme label="anes" type="grave">anes</rhyme></term>,</l>
@@ -450,7 +450,7 @@
                     <l>Al juir de los gavil<rhyme label="anes" type="grave">anes</rhyme>.</l>
                 </lg>
 
-                <lg n="96" rhyme="abbccb">
+                <lg type="estrofa" n="96" rhyme="abbccb">
                     <l>Es de almirar la destr<rhyme label="eza" type="grave">eza</rhyme></l>
                     <l>Con que la lanza man<rhyme label="ejan" type="grave">ejan</rhyme>!!</l>
                     <l>De perseguir nunca d<rhyme label="ejan" type="grave">ejan</rhyme>-</l>
@@ -459,7 +459,7 @@
                     <l>Salirnos por las or<rhyme label="ejas" type="grave">ejas</rhyme></l>
                 </lg>
 
-                <lg n="97" rhyme="abbccb">
+                <lg type="estrofa" n="97" rhyme="abbccb">
                     <l>Y pa mejor de la f<rhyme label="iesta" type="grave">iesta</rhyme></l>
                     <l>En esta aflicion tan s<rhyme label="uma" type="grave">uma</rhyme>,</l>
                     <l>Vino un Indio echando esp<rhyme label="uma" type="grave">uma</rhyme>,</l>
@@ -468,7 +468,7 @@
                     <l>"Metau el lanza hasta el pl<rhyme label="uma" type="grave">uma</rhyme>"</l>
                 </lg>
 
-                <lg n="98" rhyme="abbccb">
+                <lg type="estrofa" n="98" rhyme="abbccb">
                     <l>Tendido en el costill<rhyme label="ar" type="aguda">ar</rhyme></l>
                     <l><term ref="53">Cimbrando</term> por sobre el br<rhyme label="azo" type="grave">azo</rhyme></l>
                     <l>Una lanza como un l<rhyme label="azo" type="grave">azo</rhyme></l>
@@ -477,7 +477,7 @@
                     <l>Me levanta de un lanz<rhyme label="aso" type="grave">aso</rhyme>.</l>
                 </lg>
 
-                <lg n="99" rhyme="abbccb">
+                <lg type="estrofa" n="99" rhyme="abbccb">
                     <l>Si me atribulo, ó me enc<rhyme label="ojo" type="grave">ojo</rhyme>,</l>
                     <l>Siguro que no me esc<rhyme label="apo" type="grave">apo</rhyme>:</l>
                     <l>Siempre he sido medio g<rhyme label="uapo" type="grave">uapo</rhyme></l>
@@ -486,7 +486,7 @@
                     <l>Como la garganta al s<rhyme label="apo" type="grave">apo</rhyme>.</l>
                 </lg>
 
-                <lg n="100" rhyme="abbccb">
+                <lg type="estrofa" n="100" rhyme="abbccb">
                     <l>Dios le perdone al salv<rhyme label="aje" type="grave">aje</rhyme></l>
                     <l>Las ganas que me ten<rhyme label="ia" type="grave">ia</rhyme>....</l>
                     <l>Desaté las tres mar<rhyme label="ias" type="grave">ias</rhyme></l>
@@ -495,7 +495,7 @@
                     <l>Me achura el Indio ese d<rhyme label="ia" type="grave">ia</rhyme></l>
                 </lg>
 
-                <lg n="101" rhyme="abbccb">
+                <lg type="estrofa" n="101" rhyme="abbccb">
                     <l>Era el hijo de un cas<rhyme label="ique" type="grave">ique</rhyme></l>
                     <l>Sigun yo lo averig<rhyme label="ue" type="aguda">üé</rhyme>-</l>
                     <l>La verdá del caso j<rhyme label="ue" type="aguda">ué</rhyme></l>
@@ -504,7 +504,7 @@
                     <l>Del caballo lo baj<rhyme label="e" type="aguda">é</rhyme>-</l>
                 </lg>
 
-                <lg n="102" rhyme="abbccb">
+                <lg type="estrofa" n="102" rhyme="abbccb">
                     <l>Ay no mas me tiré al s<rhyme label="uelo" type="grave">uelo</rhyme></l>
                     <l>Y lo pisé en las pal<rhyme label="etas" type="grave">etas</rhyme>-</l>
                     <l>Empezó á hacer morisq<rhyme label="uetas" type="grave">uetas</rhyme></l>
@@ -513,7 +513,7 @@
                     <l>De hacerlo estirar la g<rhyme label="eta" type="grave">eta</rhyme>.</l>
                 </lg>
 
-                <lg n="103" rhyme="abbcbc">
+                <lg type="estrofa" n="103" rhyme="abbcbc">
                     <l>Allí quedó de moj<rhyme label="on" type="aguda">on</rhyme></l>
                     <l>Y en su caballo salt<rhyme label="e" type="aguda">é</rhyme>,</l>
                     <l>De la indiada dispar<rhyme label="e" type="aguda">é</rhyme>,</l>

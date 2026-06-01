@@ -38,19 +38,19 @@
     </xsl:template>
 
 
-    <!-- <xsl:template match="//lg[@type='poema']">      -->
-        <!-- <p class="info"><xsl:value-of select="concat('Unisonancia: ', @unisonancia)"/></p>
+<xsl:template match="//lg[@type='poema']">   
+      <p class="info"><xsl:value-of select="concat('Unisonancia: ', @unisonancia)"/></p>
         <p class="info"><xsl:value-of select="concat('Isometrismo: ', @isometrismo)"/></p>
         <p class="info"><xsl:value-of select="concat('Isoestrofismo: ', @isoestrofismo)"/></p>
-        <p class="info"><xsl:value-of select="concat('Asonancia: ', @asonancia)"/></p> -->
-        <!-- <p class="info"><xsl:value-of select="concat('Esquema métrico: ', @met)"/></p>
+        <p class="info"><xsl:value-of select="concat('Asonancia: ', @asonancia)"/></p> 
+       <p class="info"><xsl:value-of select="concat('Esquema métrico: ', @met)"/></p>
         <p class="info"><xsl:value-of select="concat('Esquema rimático: ', @rhyme)"/></p>
             <xsl:apply-templates/>
-    </xsl:template> -->
-
- <xsl:template match="//lg">
+    </xsl:template> 
+ 
+ <xsl:template match="//lg[@type='estrofa']">   
         <div class="estrofa">
-        <p class="info"><xsl:value-of select="concat('Esquema métrico: ', @met)"/></p>
+        <!-- <p class="info"><xsl:value-of select="concat('Esquema métrico: ', @met)"/></p> -->
         <p class="info"><xsl:value-of select="concat('Esquema rimático: ', @rhyme)"/></p>
             <xsl:apply-templates/>
         </div>
@@ -102,10 +102,10 @@
 
       
     <xsl:template match="//note">
-    <a><xsl:attribute name="class">pop-annotation</xsl:attribute>
-        <xsl:attribute name="tabindex">0</xsl:attribute>
-        <xsl:attribute name="id"><xsl:value-of select="@xml:id"/></xsl:attribute>
-        <xsl:apply-templates/></a>
+        <span> 
+            (<xsl:apply-templates/>)
+            <br/>
+        </span>
     </xsl:template>   
     
     <xsl:template match="//corr">

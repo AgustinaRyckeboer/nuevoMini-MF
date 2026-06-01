@@ -27,7 +27,7 @@
                 <lg type="poema"  style="sexteto" unisonancia="singular" isometrismo="isométrico"  isoestrofismo="isoestrófico" asonancia="consonante" met="6x8">
                   
                     
-                    <lg n="1" rhyme="abbccb"> 
+                    <lg type="estrofa" n="1" rhyme="abbccb"> 
                         <l>Aquí me pongo a cant<rhyme label="ar" type="aguda">ar</rhyme></l>
                         <l>Al compás de la <term ref="1">vigü<rhyme label="ela" type="grave">ela</rhyme></term>,</l>
                         <l>Que el hombre que lo desv<rhyme label="ela" type="grave">ela</rhyme></l>
@@ -35,8 +35,8 @@
                         <l>Como la ave solit<rhyme label="aria" type="grave">aria</rhyme></l>
                         <l>Con el cantar se consu<rhyme label="ela" type="grave">ela</rhyme>.</l>
                     </lg>
-
-                    <lg n="2" rhyme="abbccb">
+ 
+                    <lg type="estrofa" n="2" rhyme="abbccb">
                         <l>Pido á los Santos del C<rhyme label="ielo" type="grave">ielo</rhyme></l>
                         <l>Que ayuden mi pensam<rhyme label="iento" type="grave">iento</rhyme>,</l>
                         <l>Les pido en este mom<rhyme label="ento" type="grave">ento</rhyme></l>
@@ -45,7 +45,7 @@
                         <l>Y aclaren mi entendim<rhyme label="iento" type="grave">iento</rhyme>.</l>
                     </lg>
 
-                    <lg n="3" rhyme="abbccb">
+                    <lg type="estrofa" n="3" rhyme="abbccb">
                         <l>Vengan Santos milagr<rhyme label="osos" type="grave">osos</rhyme>,</l>
                         <l>Vengan todos en mi ay<rhyme label="uda" type="grave">uda</rhyme>,</l>
                         <l>Que la lengua se me <term ref="2">añ<rhyme label="uda" type="grave">uda</rhyme></term></l>
@@ -54,7 +54,7 @@
                         <l>En una ocasión tan r<rhyme label="uda" type="grave">uda</rhyme>.</l>
                     </lg>
 
-                    <lg n="4" rhyme="abbccb">
+                    <lg type="estrofa" n="4" rhyme="abbccb">
                         <l>Yo he visto muchos cant<rhyme label="ores" type="grave">ores</rhyme>,</l>
                         <l>Con famas bien oten<rhyme label="idas" type="grave">idas</rhyme>,</l>
                         <l>Y que despues de alquir<rhyme label="idas" type="grave">idas</rhyme></l>
@@ -63,7 +63,7 @@
                         <l>Se cansaron en part<rhyme label="idas" type="grave">idas</rhyme>.</l>                        
                     </lg>
 
-                    <lg n="5" rhyme="abbccb">
+                    <lg type="estrofa" n="5" rhyme="abbccb">
                         <l>Mas ande otro criollo p<rhyme label="asa" type="grave">asa</rhyme></l>
                         <l>Martín Fierro ha de pas<rhyme label="ar" type="aguda">ar</rhyme>,</l>
                         <l>Nada lo hace <term ref="3">recul<rhyme label="ar" type="aguda">ar</rhyme></term></l>
@@ -72,7 +72,7 @@
                         <l>Yo tambien quiero cant<rhyme label="ar" type="aguda">ar</rhyme>.</l>
                     </lg>
 
-                    <lg n="6" rhyme="abbccb">
+                    <lg type="estrofa" n="6" rhyme="abbccb">
                         <l>Cantando me he de mor<rhyme label="ir" type="aguda">ir</rhyme></l>
                         <l>Cantando me han de enterr<rhyme label="ar" type="aguda">ar</rhyme>,</l>
                         <l>Y cantando he de lleg<rhyme label="ar" type="aguda">ar</rhyme></l>
@@ -81,7 +81,7 @@
                         <l>Vine á este mundo á cant<rhyme label="ar" type="aguda">ar</rhyme>.</l>
                     </lg>
 
-                    <lg n="7" rhyme="abbccb">
+                    <lg type="estrofa" n="7" rhyme="abbccb">
                         <l>Que no se trabe mi l<rhyme label="engua" type="grave">engua</rhyme></l>
                         <l>Ni me falte la pal<rhyme label="abra" type="grave">abra</rhyme>-</l>
                         <l>El cantar mi gloria l<rhyme label="abra" type="grave">abra</rhyme></l>
@@ -90,7 +90,7 @@
                         <l>Aunque la tierra se <rhyme label="abra" type="grave">abra</rhyme>.</l>                        
                     </lg>
 
-                    <lg n="8" rhyme="abbccb">
+                    <lg type="estrofa" n="8" rhyme="abbccb">
                         <l>Me siento en el <term ref="130">plan de un b<rhyme label="ajo" type="grave">ajo</rhyme></term></l>
                         <l>A cantar un argum<rhyme label="ento" type="grave">ento</rhyme>-</l>
                         <l>Como si soplara el v<rhyme label="iento" type="grave">iento</rhyme></l>
@@ -99,7 +99,7 @@
                         <l>Juega allí mi pensam<rhyme label="ento" type="grave">iento</rhyme>.</l>
                     </lg>
 
-                    <lg n="9" rhyme="abbccb">
+                    <lg type="estrofa" n="9" rhyme="abbccb">
                     <note>el último verso tiene rima asonante</note>
                         <l>Yo no soy cantor letr<rhyme label="ao" type="aguda">ao</rhyme>,</l>
                         <l>Mas si me pongo á cant<rhyme label="ar" type="aguda">ar</rhyme></l>
@@ -109,7 +109,7 @@
                         <l>Como agua de manant<rhyme label="ial" type="aguda">ial</rhyme>.</l>
                     </lg>
                     
-                    <lg n="10" rhyme="abbcbc">
+                    <lg type="estrofa" n="10" rhyme="abbcbc">
                         <l>Con la guitarra en la m<rhyme label="ano" type="grave">ano</rhyme></l>
                         <l>Ni las moscas se me arr<rhyme label="iman" type="grave">iman</rhyme>,</l>
                         <l>Naides me pone el pié enc<rhyme label="ima" type="grave">ima</rhyme>,</l>
@@ -118,7 +118,7 @@
                         <l>Y llorar á la <term ref="5">bord<rhyme label="ona" type="grave">ona</rhyme></term>.</l>                        
                     </lg>
 
-                    <lg n="11" rhyme="abbccb" >
+                    <lg type="estrofa" n="11" rhyme="abbccb" >
                         <l>Yo soy toro en mi rod<rhyme label="eo" type="aguda">eo</rhyme></l>
                         <l>Y toraso en rodeo ag<rhyme label="eno" type="grave">eno</rhyme>,</l>
                         <l>Siempre me tuve por g<rhyme label="ueno" type="grave">üeno</rhyme></l>
@@ -127,7 +127,7 @@
                         <l>Y veremos quién es m<rhyme label="enos" type="grave">enos</rhyme>.</l>
                     </lg>
 
-                    <lg n="12" rhyme="abbccb">
+                    <lg type="estrofa" n="12" rhyme="abbccb">
                         <l>No me hago al lao de la <term ref="6">g<rhyme label="ueya" type="grave">üeya</rhyme></term></l>
                         <l>Aunque venga degoll<rhyme label="ando" type="grave">ando</rhyme>,</l>
                         <l>Con los blandos yo soy bl<rhyme label="ando" type="grave">ando</rhyme>,</l>
@@ -136,7 +136,7 @@
                         <l>Me ha visto andar tutubi<rhyme label="ando" type="grave">ando</rhyme></l>                        
                     </lg>
 
-                    <lg n="13" rhyme="abbccb">
+                    <lg type="estrofa" n="13" rhyme="abbccb">
                         <l>En el peligro ¡Qué Cr<rhyme label="istos" type="grave">istos</rhyme>!</l>
                         <l>El corazon se me en<rhyme label="ancha" type="grave">ancha</rhyme>,</l>
                         <l>Pues toda la tierra es c<rhyme label="ancha" type="grave">ancha</rhyme>,</l>
@@ -145,7 +145,7 @@
                         <l>Donde quiera hace <term ref="131">pata <rhyme label="ancha" type="grave">ancha</rhyme></term>.</l>                        
                     </lg>
 
-                    <lg n="14" rhyme="abbcbc">
+                    <lg type="estrofa" n="14" rhyme="abbcbc">
                     <note> la rima en 'c' es asonante</note>
                         <l>Soy gaucho, y entiendanl<rhyme label="o" type="aguda">ó</rhyme></l>
                         <l>Como mi lengua lo espl<rhyme label="ica" type="grave">ica</rhyme>,</l>
@@ -155,7 +155,7 @@
                         <l>Ni quema mi frente el S<rhyme label="ol" type="aguda">ol</rhyme>.</l>                        
                     </lg>
 
-                    <lg n="15" rhyme="abbccb">
+                    <lg type="estrofa" n="15" rhyme="abbccb">
                         <l>Nací como nace el <term ref="7">p<rhyme label="eje" type="grave">eje</rhyme></term></l>
                         <l>En el fondo de la m<rhyme label="ar" type="aguda">ar</rhyme>,</l>
                         <l>Naides me puede quit<rhyme label="ar" type="aguda">ar</rhyme></l>
@@ -164,7 +164,7 @@
                         <l>Del mundo lo he de llev<rhyme label="ar" type="aguda">ar</rhyme>.</l>                        
                     </lg>
 
-                    <lg n="16" rhyme="abbccb">
+                    <lg type="estrofa" n="16" rhyme="abbccb">
                         <l>Mi gloria es vivir tan l<rhyme label="ibre" type="grave">ibre</rhyme></l>
                         <l>Como el pájaro del C<rhyme label="elo" type="grave">ielo</rhyme>,</l>
                         <l>No hago nido en este s<rhyme label="uelo" type="grave">uelo</rhyme></l>
@@ -173,7 +173,7 @@
                         <l>Cuando yo remuento el v<rhyme label="elo" type="grave">uelo</rhyme>.</l>                        
                     </lg>
 
-                    <lg n="17" rhyme="abbccb">
+                    <lg type="estrofa" n="17" rhyme="abbccb">
                         <l>Yo no tengo en el am<rhyme label="or" type="aguda">or</rhyme></l>
                         <l>Quien me venga con quer<rhyme label="ellas" type="grave">ellas</rhyme>,</l>
                         <l>Como esas aves tan b<rhyme label="ellas" type="grave">ellas</rhyme></l>
@@ -182,7 +182,7 @@
                         <l>Y me cubren las estr<rhyme label="ellas" type="grave">ellas</rhyme>.</l>
                     </lg>
 
-                    <lg n="18" rhyme="abbccb">
+                    <lg type="estrofa" n="18" rhyme="abbccb">
                         <l>Y sepan cuantos me esc<rhyme label="uchan" type="grave">uchan</rhyme></l>
                         <l>De mis penas el rel<rhyme label="ato" type="grave">ato</rhyme></l>
                         <l>Que nunca peleo ni m<rhyme label="ato" type="grave">ato</rhyme></l>
@@ -191,7 +191,7 @@
                         <l>Solo me arrojó el mal tr<rhyme label="ato" type="grave">ato</rhyme>.</l>                        
                     </lg>
 
-                    <lg n="19" rhyme="abbccb">
+                    <lg type="estrofa" n="19" rhyme="abbccb">
                         <l>Y atiendan la relac<rhyme label="ion" type="aguda">ion</rhyme></l>
                         <l>Que hace un gaucho persegu<rhyme label="ido" type="grave">ido</rhyme>,</l>
                         <l>Que padre y marido ha s<rhyme label="ido" type="grave">ido</rhyme></l>
