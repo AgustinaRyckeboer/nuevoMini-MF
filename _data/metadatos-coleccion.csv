@@ -1,5 +1,5 @@
 objectid,parentid,title,alt_title,creator,editor,date,description,subject,location,latitude,longitude,source,identifier,identifier2,locus,type,format,language,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript
-canto_i,,Canto I ,,José Hernández,Imprenta de La Pampa,1872,<i>El Gaucho Martín Fierro</i>: por José Hernández,verso; impreso,Buenos Aires,-34.6,-58.4333,University of California,,,p.7-10,,,español,transcripciones,,/objects/small/MF-portada.jpg,/objects/thumbs/MF-portada.jpg,,objects/transcripciones/mf-c1.html
+canto_i,,Canto I ,,José Hernández,Imprenta de La Pampa,1872,<i>El Gaucho Martín Fierro</i>: por José Hernández,verso; impreso,Buenos Aires,-34.6,-58.4333,University of California,,,p.7-10,,,español,transcripciones,,/objects/small/MF-portada.jpg,/objects/thumbs/MF-portada.jpg,,/objects/transcripciones/mf-c1.html
 c.i-p.7,canto_i,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,objects/MF-p.7-C.I.jpg,objects/small/MF-p.7-C.I.jpg,objects/thumbs/MF-p.7-C.I.jpg,,
 c.i-p.8,canto_i,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,objects/MF-p.8-C.I.jpg,objects/small/MF-p.8-C.I.jpg,objects/thumbs/MF-p.8-C.I.jpg,,
 c.i-p.9,canto_i,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,objects/MF-p.9-C.I.jpg,objects/small/MF-p.9-C.I.jpg,objects/thumbs/MF-p.9-C.I.jpg,,
