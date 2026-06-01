@@ -26,7 +26,7 @@
              <lg type="poema" style="cuarteto" unisonancia="singular" isometrismo="isométrico" isoestrofismo="isoestrófico"  met="4x8">
              
              
-                    <lg n="222" rhyme="abbc">
+                    <lg type="estrofa" n="222" rhyme="abbc">
                     <note>asonancia libre</note>             
                         <l>Otra vez en un bol<rhyme label="iche" type="grave">iche</rhyme></l>
                         <l>Estaba haciendo la t<rhyme label="arde" type="grave">arde</rhyme></l>
@@ -34,7 +34,7 @@
                         <l>De guapo y de peliad<rhyme label="or" type="aguda">or</rhyme>-</l>
                     </lg>
                                      
-                    <lg n="223" rhyme="abba">
+                    <lg type="estrofa" n="223" rhyme="abba">
                     <note>asonancia libre</note>
                         <l>A la llegada met<rhyme label="io" type="aguda">ió</rhyme></l>
                         <l>El pingo hasta la <term ref="92">ram<rhyme label="ada" type="grave">ada</rhyme></term>-</l>
@@ -42,7 +42,7 @@
                         <l>Me quedé en el mostrad<rhyme label="or" type="aguda">or</rhyme>.</l>
                     </lg>
                     
-                    <lg n="224" rhyme="abbc">
+                    <lg type="estrofa" n="224" rhyme="abbc">
                     <note>asonancia libre</note>
                         <l>Era un terne de aquel p<rhyme label="ago" type="grave">ago</rhyme></l>
                         <l>Que naides lo reprend<rhyme label="ia" type="grave">ia</rhyme>,</l>
@@ -50,7 +50,7 @@
                         <l>Con el señor Comend<rhyme label="ante" type="grave">ante</rhyme>:-</l>
                     </lg>
                     
-                    <lg n="225" rhyme="abbc">
+                    <lg type="estrofa" n="225" rhyme="abbc">
                     <note>asonancia libre</note>
                         <l>Y como era protej<rhyme label="ido" type="grave">ido</rhyme>,</l>
                         <l>Andaba muy enton<rhyme label="ao" type="grave">ao</rhyme>-</l>
@@ -58,7 +58,7 @@
                         <l>Lo llevaba por del<rhyme label="ante" type="grave">ante</rhyme>.</l>
                     </lg>
                     
-                    <lg n="226" rhyme="abbc">
+                    <lg type="estrofa" n="226" rhyme="abbc">
                     <note>asonancia libre</note>
                         <l>Ah! pobre! si él mismo cr<rhyme label="eiba" type="grave">eiba</rhyme>,</l>
                         <l>Que la vida le sobr<rhyme label="aba" type="grave">aba</rhyme>,</l>
@@ -66,7 +66,7 @@
                         <l>Aguaitandolo la m<rhyme label="uerte" type="grave">uerte</rhyme>-</l>
                     </lg>
                     
-                    <lg n="227" rhyme="abbc">
+                    <lg type="estrofa" n="227" rhyme="abbc">
                     <note>asonancia libre</note>
                         <l>Pero ansi <corr>pasa</corr> en el m<rhyme label="undo" type="grave">undo</rhyme>,</l>
                         <l>Es ansi la triste v<rhyme label="ida" type="grave">ida</rhyme>-</l>
@@ -77,7 +77,7 @@
                     
                 <lg type="poema" style="sexteto" unisonancia="singular" isometrismo="isométrico" isoestrofismo="isoestrófico" asonancia="consonante" met="6x8">
                      
-                    <lg n="228" rhyme="abbcdc">
+                    <lg type="estrofa" n="228" rhyme="abbcdc">
                         <l>Se tiró al suelo; al dentr<rhyme label="ar" type="aguda">ar</rhyme></l>
                         <l>Le dió un empeyón á un v<rhyme label="asco" type="grave">asco</rhyme>-</l>
                         <l>Y me alargó un medio fr<rhyme label="asco" type="grave">asco</rhyme></l>
@@ -86,7 +86,7 @@
                         <l>"Que por la mia no hay cuid<rhyme label="ao" type="grave">ao</rhyme>"</l>
                     </lg>
                     
-                    <lg n="229" rhyme="abbcbc">
+                    <lg type="estrofa" n="229" rhyme="abbcbc">
                     <note>el quinto verso tiene rima asonante</note>
                         <l>"Ah! gaucho, me respond<rhyme label="io" type="aguda">ió</rhyme></l>
                         <l>"De que pago será cri<rhyme label="ollo" type="grave">ollo</rhyme>-</l>
@@ -96,7 +96,7 @@
                         <l>"No bala ningun tern<rhyme label="ero" type="grave">ero</rhyme>"</l>
                     </lg>
                     
-                    <lg n="230" rhyme="abbcbc">
+                    <lg type="estrofa" n="230" rhyme="abbcbc">
                     <note>el quinto verso tiene rima asonante</note>
                         <l>Y ya salimos trens<rhyme label="aos" type="grave">aos</rhyme></l>
                         <l>Por que el hombre no era l<rhyme label="erdo" type="grave">erdo</rhyme>-</l>
@@ -106,7 +106,7 @@
                         <l>De un revéz con el fac<rhyme label="on" type="aguda">on</rhyme>.</l>
                     </lg>
                     
-                    <lg n="231" rhyme="abbcbc">
+                    <lg type="estrofa" n="231" rhyme="abbcbc">
                         <l>Y como con la just<rhyme label="icia" type="grave">icia</rhyme></l>
                         <l>No andaba bien por all<rhyme label="i" type="aguda">í</rhyme>,</l>
                         <l>Cuanto pataliar lo v<rhyme label="i" type="aguda">i</rhyme>,</l>
@@ -115,7 +115,7 @@
                         <l>Como haciendome chiqu<rhyme label="ito" type="grave">ito</rhyme>.</l>
                     </lg>
                     
-                    <lg n="232" rhyme="abbcbc">
+                    <lg type="estrofa" n="232" rhyme="abbcbc">
                         <l>Monté, y me encomendé á D<rhyme label="ios" type="aguda">ios</rhyme>,</l>
                         <l>Rumbiando para otro p<rhyme label="ago" type="grave">ago</rhyme>-</l>
                         <l>Que el gaucho que llaman v<rhyme label="ago" type="grave">ago</rhyme></l>
@@ -124,7 +124,7 @@
                         <l>Vive yorando la aus<rhyme label="encia" type="grave">encia</rhyme></l>
                     </lg>
                     
-                    <lg n="233" rhyme="abbcdc">
+                    <lg type="estrofa" n="233" rhyme="abbcdc">
                         <l>Él anda siempre juy<rhyme label="endo" type="grave">endo</rhyme></l>
                         <l>Siempre pobre y persegu<rhyme label="ido" type="grave">ido</rhyme>,</l>
                         <l>No tiene cueva ni n<rhyme label="ido" type="grave">ido</rhyme></l>
@@ -133,7 +133,7 @@
                         <l>El ser gaucho es un del<rhyme label="ito" type="grave">ito</rhyme>.</l>
                     </lg>
                     
-                    <lg n="234" rhyme="abbccb">
+                    <lg type="estrofa" n="234" rhyme="abbccb">
                         <l>Es como el <term ref="95">patrio de p<rhyme label="osta" type="grave">osta</rhyme></term></l>
                         <l>Lo larga este, aquel lo t<rhyme label="oma" type="grave">oma</rhyme>-</l>
                         <l>Nunca se acaba la br<rhyme label="oma" type="grave">oma</rhyme>-</l>
@@ -142,7 +142,7 @@
                         <l>Desamparao en la l<rhyme label="oma" type="grave">oma</rhyme></l>
                     </lg>
                     
-                    <lg n="235" rhyme="abbcdc">
+                    <lg type="estrofa" n="235" rhyme="abbcdc">
                         <l>Le echan la agua del baut<rhyme label="ismo" type="grave">ismo</rhyme></l>
                         <l>Aquel que nacio en la s<rhyme label="elva" type="grave">elva</rhyme>,</l>
                         <l>"Busca madre que te env<rhyme label="uelva" type="grave">uelva</rhyme>"</l>
@@ -151,7 +151,7 @@
                         <l>Como burro con la c<rhyme label="arga" type="grave">arga</rhyme></l>
                     </lg>
                     
-                    <lg n="236" rhyme="abbccb">
+                    <lg type="estrofa" n="236" rhyme="abbccb">
                         <l>Y se cria viviendo al v<rhyme label="iento" type="grave">iento</rhyme></l>
                         <l>Como oveja sin trasqu<rhyme label="ila" type="grave">ila</rhyme>-</l>
                         <l>Míentras su padre en las f<rhyme label="ilas" type="grave">ilas</rhyme></l>
@@ -160,7 +160,7 @@
                         <l>Naides lo ampara ni as<rhyme label="ila" type="grave">ila</rhyme>.</l>
                     </lg>
                     
-                    <lg n="237" rhyme="abbccb">
+                    <lg type="estrofa" n="237" rhyme="abbccb">
                         <l>Le llaman "gaucho mam<rhyme label="ao" type="grave">ao</rhyme>"</l>
                         <l>Si lo pillan divert<rhyme label="ido" type="grave">ido</rhyme>,</l>
                         <l>Y que es mal entreten<rhyme label="ido" type="grave">ido</rhyme></l>
@@ -169,7 +169,7 @@
                         <l>Y si no, se vé....fund<rhyme label="ido" type="grave">ido</rhyme>.</l>
                     </lg>
                     
-                    <lg n="238" rhyme="abbcdc">
+                    <lg type="estrofa" n="238" rhyme="abbcdc">
                         <l>No tiene hijos, ni muj<rhyme label="er" type="aguda">er</rhyme>,</l>
                         <l>Ni amigos, ni protet<rhyme label="ores" type="grave">ores</rhyme>,</l>
                         <l>Pues todos son sus señ<rhyme label="ores" type="grave">ores</rhyme></l>
@@ -178,7 +178,7 @@
                         <l>Y donde irá el guey que no <rhyme label="are" type="grave">are</rhyme>.</l>
                     </lg>
                     
-                    <lg n="239" rhyme="abbcdc">
+                    <lg type="estrofa" n="239" rhyme="abbcdc">
                     <note>el quinto verso tiene rima libre</note>
                         <l>Su casa es el pajon<rhyme label="al" type="aguda">al</rhyme></l>
                         <l>Su guarida es el des<rhyme label="ierto" type="grave">ierto</rhyme>;-</l>
@@ -188,7 +188,7 @@
                         <l>Porque es un "gaucho ladr<rhyme label="on" type="aguda">on</rhyme>"</l>
                     </lg>
                     
-                    <lg n="240" rhyme="abbccb">
+                    <lg type="estrofa" n="240" rhyme="abbccb">
                     <note>el último verso tiene rima asonante</note>    
                         <l>Y si de un golpe por <rhyme label="ay" type="aguda">ay</rhyme></l>
                         <l>Lo dan vuelta panza arr<rhyme label="iba" type="grave">iba</rhyme></l>
@@ -198,7 +198,7 @@
                         <l>En una cueva lo t<rhyme label="iran" type="grave">iran</rhyme></l>
                     </lg>
                     
-                    <lg n="241" rhyme="abbcbc">
+                    <lg type="estrofa" n="241" rhyme="abbcbc">
                         <l>El nada gana en la p<rhyme label="az" type="aguda">az</rhyme></l>
                         <l>Y es el primero en la gu<rhyme label="erra" type="grave">erra</rhyme>-</l>
                         <l>No le perdonan si y<rhyme label="erra" type="grave">erra</rhyme></l>
@@ -207,7 +207,7 @@
                         <l>Solo sirve pa vot<rhyme label="ar" type="grave">ar</rhyme>.</l>
                     </lg>
                     
-                    <lg n="242" rhyme="abbcdc">
+                    <lg type="estrofa" n="242" rhyme="abbcdc">
                         <l>Para él son los calab<rhyme label="ozos" type="grave">ozos</rhyme>,</l>
                         <l>Para él las duras pris<rhyme label="iones" type="grave">iones</rhyme>-</l>
                         <l>En su boca no hay raz<rhyme label="ones" type="grave">ones</rhyme></l>
@@ -216,7 +216,7 @@
                         <l>Las razones de los p<rhyme label="obres" type="grave">obres</rhyme>.</l>
                     </lg>
                     
-                    <lg n="243" rhyme="abbcdc">
+                    <lg type="estrofa" n="243" rhyme="abbcdc">
                         <l>Si uno aguanta, es gaucho br<rhyme label="uto" type="grave">uto</rhyme>-</l>
                         <l>Si no aguanta es gaucho m<rhyme label="alo" type="grave">alo</rhyme>-</l>
                         <l>Dele azote dele p<rhyme label="alo" type="grave">alo</rhyme>!</l>
@@ -225,7 +225,7 @@
                         <l>Esta es la suerte mald<rhyme label="ita" type="grave">ita</rhyme>,</l> 
                     </lg>
                     
-                    <lg n="244" rhyme="abbcbc">
+                    <lg type="estrofa" n="244" rhyme="abbcbc">
                     <note>el quinto verso tiene rima asonante</note>
                         <l>Vamos suerte-vamos j<rhyme label="untos" type="grave">untos</rhyme></l>
                         <l>Dende que juntos nac<rhyme label="imos" type="grave">imos</rhyme>-</l>
