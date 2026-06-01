@@ -47,7 +47,7 @@
         <p class="info"><xsl:value-of select="concat('Esquema rimático: ', @rhyme)"/></p>
             <xsl:apply-templates/>
     </xsl:template> 
-
+ 
  <xsl:template match="//lg[@type='estrofa']">   
         <div class="estrofa">
         <!-- <p class="info"><xsl:value-of select="concat('Esquema métrico: ', @met)"/></p> -->
