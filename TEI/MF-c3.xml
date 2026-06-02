@@ -137,7 +137,7 @@
                 <lg type="estrofa" n="61" rhyme="abbccb">
                     <l>Yo llevé un <term ref="35">moro de n<rhyme label="umero" type="esdrújula">úmero</rhyme></term>,</l>
                     <l>Sobresaliente el mat<rhyme label="ucho" type="grave">ucho</rhyme>!</l>
-                    <l>Con él gané en Ayac<rhyme label="ucho" type="grave">ucho</rhyme>,</l>
+                    <l>Con él gané en <placeName key="ayacucho">Ayac<rhyme label="ucho" type="grave">ucho</rhyme></placeName>,</l>
                     <l>Mas plata que agua bend<rhyme label="ita" type="grave">ita</rhyme>-</l>
                     <l>Siempre el gaucho neces<rhyme label="ita" type="grave">ita</rhyme></l>
                     <l>Un pingo pa fiarle un p<rhyme label="ucho" type="grave">ucho</rhyme>-.</l>
@@ -210,7 +210,7 @@
                     <l>Porque todo era jug<rhyme label="arle" type="grave">arle</rhyme></l>
                     <l>Por los lomos con la esp<rhyme label="ada" type="grave">ada</rhyme>,</l>
                     <l>Y aunque usté no hiciera n<rhyme label="ada" type="grave">ada</rhyme>,</l>
-                    <l>Lo mesmito que en Pal<rhyme label="ermo" type="grave">ermo</rhyme>,</l>
+                    <l>Lo mesmito que en <placeName key="palermo">Pal<rhyme label="ermo" type="grave">ermo</rhyme></placeName>,</l>
                     <l>Le daban cada <term ref="45">cep<rhyme label="iada" type="grave">iada</rhyme></term></l>
                     <l>Que lo dejaban enf<rhyme label="ermo" type="grave">ermo</rhyme>.</l>
                 </lg>
