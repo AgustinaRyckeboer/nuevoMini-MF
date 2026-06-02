@@ -1,10 +1,133 @@
-id,text
-b1nota1,"Los quipus eran sistemas de cuerdas con nudos utilizados por los incas y otras culturas andinas para registrar información. A través de la posición, tipo y cantidad de nudos, se representaban números y datos relacionados con censos, tributos, cosechas y otros aspectos administrativos."
-b1nota2,"Los glifos mesoamericanos eran símbolos utilizados por antiguas culturas como los mayas y los mexicas para representar palabras, sonidos e ideas. Formaban sistemas de escritura complejos que combinaban elementos fonéticos y logográficos."
-b3nota1,"Se refiere a Paris, criado como pastor en el monte Ida para evitar una profecía que decía que causaría la caída de Troya. "
-b3nota2,"En algunos textos literarios y satíricos del Siglo de Oro, la Bizca es una forma irónica de referirse a Venus, la diosa del amor, destacando cómo su poder de seducción trasciende los cánones clásicos de belleza."
-b3nota3,"Vulcano, el dios romano del fuego y la forja, era representado como un herrero cojo."
-b4nota1,"En la mitología griega, los Campos Elíseos eran el lugar del más allá reservado para las almas virtuosas y heroicas."
-b6nota1,"El Virreinato del Perú, establecido en 1542, fue uno de los más importantes de la América colonial española, abarcando vastos territorios que incluían gran parte de Sudamérica. "
-b6nota2,La leyenda de San Borondón refería a una novena isla canaria que 'aparecía' entre las nubes de vez en cuando entre La Palma y el Hierro. Varios mapas medievales la situaban en el archipiélago canario.
-e3nota1,Los tinajones son vasijas toscas de barro cocido parecida a la mitad inferior de una tinaja.
+ref,term,text
+1,Vigüela,Instrumento de cuerdas. 
+2,Añudar,Anudar.
+3,Recular,Retroceder. Tener miedo.
+4,Prima,"Cuerda primera, la más delgada y aguda de ciertos instrumentos. Fuente: Oxford languages."
+5,Bordona,"Cualquiera de las tres cuerdas de sonido más grave de la guitarra, especialmente la sexta. Fuente: Oxford languages."
+6,Güeya,Huella. Camino que se ha hecho por la misma circulación de personas y/o animales.                                            
+7,Peje,Pez.
+8,Cuartear,"Descuartizar. Empujar, arrastrar."
+9,Cimarron,Mate amargo.
+10,Pellón,Pelleja curtida que se usa sobre la silla de montar. Fuente: diccionario RAE.
+11,Rebenque,Instrumento provisto de un cabo y una tira de cuero crudo que se utiliza para animar o castigar a los caballos; el cabo puede ser de metal labrado. Fuente: Oxford Languages.
+12,Pingos,Caballo.
+13,Palenque,"Poste liso y fuerte clavado en tierra, que sirve para atar animales. Fuente: diccionario RAE."
+14,Bagual,Caballo salvaje o rebelde.
+15,Sotreta,"Persona vaga o cobarde, término despectivo. Fuente: Oxford Language."
+16,Paletas,Cadera de un animal.
+17,Lloronas,Espuelas.
+18,,
+19,Gambeta,"Movimiento que se realiza para evitar, eludir o cambiar de dirección."
+20,Bolear,Arrojar las boleadoras hacia una persona o animal para atraparlo.
+21,Cabestro/Cabresto,Ronzal que se ata a la cabeza o al cuello de la caballería para llevarla o asegurarla. Fuente: diccionario RAE.
+22,Yerras,Marcar al ganado con un hierro caliente. También hace referencia a la temporada donde se realiza esto.
+23,Pialador,"Peón encargado de apresar reses, especialmente vacunas o equinas, arrojando el pial a sus patas. Fuente: diccionario de americanismos."
+24,Tironiador,"Aquel que tironea, en este caso después de enlazar un animal salvaje se lo lleva a los tirones."
+25,Chancleta,Inepto o cobarde.
+26,Goyete,"Cuello, en este caso se refiere al cuello de la damajuana."
+27,Tiento,Tira de cuero.
+28,Tapera,Vivienda abandonada o en mal estado.
+29,Puntiao,Ligeramente borracho.
+30,Matrero,Aquel que huye de la justicia.
+31,Sangiador,"El trabajo de este inglés zanjeador (o zanjador) consistía en cavar las zanjas que se utilizaban para marcar divisiones o aparcelamientos. Era labor de gringos, que los gauchos despreciaban, como despreciaban todo trabajo que no fuera ecuestre. Fuente: Centro Virtual Cervantes."
+32,Inca-la-perra,Modo despectivo de referirse a Inglaterra.
+33,Acoyarao,Unir dos cosas o personas. Fuente: diccionario RAE.
+34,Mesturar,Mezclar.
+35,Moro de numero,Caballo ganador de carreras.
+36,Gerga,Tela gruesa o acolchonada.
+37,Guasca,"Ramal de cuero, cuerda o soga, que sirve especialmente de rienda o de látigo. Fuente: diccionario RAE."
+38,Maniador,"Tira larga de cuero sobado, que sirve para atar o trabar el caballo, maniatar animales y otros usos. Fuente: Oxford Languages."
+39,,
+40,Manea,"Lonja de cuero curtido o sobado o de tejidos de tientos de diversas labores, con puntos en uno de sus extremos y una hebilla en el otro y sirve para manear a las caballerías. Está dividida en dos partes o lonjas, unidas por una argolla. Fuente: Wikcionario."
+41,Escarciar,Dicho de un caballo: moverse subiendo y bajando la cabeza violenta y repetidamente. Fuente: diccionario RAE.
+42,Aparcero,Persona que se dedica a explotar un terreno agrícola o una instalación ganadera mediante un contrato de aparcería. Fuente: Oxford Languages.
+43,Estaquiar,Castigar a una persona estirándola entre cuatro estacas clavadas en el suelo. Fuente: Oxford Languages.
+44,Resierte,Desertar. 
+45,Cepiada,Hace referencia a sufrir la condena del cepo.
+46,Enancao,Cabalgar dos jinetes en un mismo caballo. 
+47,Espichar,Pinchar con cosa aguda.
+48,Jabon,Sentir miedo o susto. 
+49,Redomon,Que no ha sido domado por completo. 
+50,Yeguada matrera,Grupo de caballos robados. 
+51,Entrevero,"Mezcla desordenada de personas, animales o cosas. Fuente: Oxford Languages."
+52,No echar panes,No proferir amenazas.
+53,Cimbrar,Sufrir una sacudida brusca en una de las extremidades. Fuente: diccionario de americanismos.
+54,Yesca,Materia muy seca que arde con facilidad.
+55,Apero,Utensilios relacionados con la montura del caballo.
+56,Taba,Juego que consiste en arrojar uno de los huesos del tarso de la vaca e intentar que al caer quede la parte cóncava hacia arriba; era habitual en el campo. Fuente: Oxford Language.
+57,Taguané,"Dicho de un animal vacuno, y ocasionalmente de un animal caballar: que tiene el pescuezo y los costillares de color diferente al del lomo, barriga y parte de las ancas. Fuente: diccionario RAE."
+58,Desocando,"Despearse, que es maltratar a un animal por haberlo hecho caminar mucho."
+59,,
+60,Hacerle ver la luz,Dar dinero (luz por el brillo de las monedas). Fuente: glosario gauchesco.
+61,,
+62,Orcon,"Madero vertical que en las casas rústicas sirve, a modo de columna, para sostener las vigas o los aleros del tejado. Fuente: diccionario de americanismos."
+63,Amolar,Aguantar o soportar algo desagradable.
+64,Grullo,Peso moneda.
+65,Reyuno,"Dicho de un caballo perteneciente al Estado, y que como señal lleva cortada la mitad de la oreja derecha. Fuente: Diccionario RAE."
+66,Guayaca,Bolsa pequeña que se utiliza para guardar monedas o adminículos de fumar. Fuente: Oxford Languages.
+67,Taba culera,"Taba cargada que hace que siempre caiga del mismo lado, con lo cual se hace trampa."
+68,Barunda,"Desorden, también puede ser escrito como baharúnda."
+69,Ansina,"Así, de ésta manera."
+70,Enganchao,Soldado contratado a sueldo. Fuente: Glosario gauchesco.
+71,Peludo,Borrachera.
+72,Lengüetiando pico a pico,"Hablar mucho, sin sentido."
+73,Naco,Trozo de tabaco negro en trenza para mascar. Fuente: Oxford Languages.
+74,Vichar,Observar atentamente a alguien o algo para reparar en algún detalle. Fuente: Oxford Languages.
+75,Cotín,"Cutí, tela de lienzo rayado o con otros dibujos que se usa comúnmente para cubiertas de colchones. Fuente: diccionario RAE."
+76,Limeta,Botella de vientre ancho y cuello largo. Fuente: Oxford Languages.
+77,Vizcachera,Madriguera de la vizcacha.
+78,Volada,Ocasión u oportunidad favorable.
+79,Cucaña,Aquello que se consigue con poco trabajo o a costa ajena. De mala fe. Fuente: diccionario RAE.
+80,Milonga,"Baile popular rioplatense, de pareja enlazada, que tiene ritmo vivo y marcado y está emparentado con el tango. Fuente: Oxford Languages."
+81,Pericon,"Danza tradicional rioplatense que se baila por parejas y en grupo, cuyas variadas figuras dirige un bastonero, a quien atienden los danzantes para realizar cada figura; ocasionalmente, la danza se detiene y los danzantes entablan diálogos en rima con contenidos amorosos o humorísticos, que se denominan relaciones. Fuente: Oxford Languages."
+82,Mazamorra,"Comida criolla hecha con maíz blanco partido y hervido, que se come fría o caliente, con o sin leche y a veces con azúcar o miel. Fuente: Oxford Languages."
+83,Carona,"Pedazo de tela gruesa acojinado que, entre la silla o albarda y el sudadero, sirve para que no se lastimen las caballerías. Fuente: diccionario RAE. 
+Se utiliza metafóricamente la palabra carona, es decir, la piel de vaca que se ponía debajo de la silla de montar y que el gaucho usaba también para dormir, Martín Fierro sobreentiende luego literalmente «¡Me gusta para la cama!» Fuente: Cervantes virtual."
+84,Tamangos,Calzado viejo y deformado. Fuente: diccionario RAE.
+85,Porrudo,Testarudo.
+86,Aspa,Cuerno.
+87,Planaso,Golpe dado con la parte plana del machete.
+88,Buscapié,"Cohete sin varilla que, encendido, corre por la tierra entre los pies de la gente. Fuente: diccionario RAE."
+89,Motas,"Cabello corto y muy rizado, ensortijado y crespo. Fuente: Oxford Languages."
+90,Carrillo,"Parte carnosa de la cara, desde los pómulos hasta lo bajo de la quijada. Fuente: diccionario RAE."
+91,Retobao,Envuelto. 
+92,Ramada,"Cobertizo que con ramas de árboles verdes se construye sobre cuatro palos, para tener sombra cerca del rancho. Fuente: glosario gauchesco. "
+93,Oyo,Sepultura. 
+94,Sebo,
+95,Patrio de posta,"Caballo perteneciente a la hacienda del Estado, empleado en el relevo de viajeros, solía ser viejo y/o débil. Fuente: Diario La Nación."
+96,Plaito,
+97,Campanas de palos,"Hace referencia a lo que no suena, no se hace oír. "
+98,Matreriar,"Huir de la justicia, vivir como prófugo."
+99,Carancho,"Ave de rapiña, de 50 cm de longitud con cola generalmente pardusca y capuchón más oscuro; se alimenta de animales muertos, insectos, reptiles, etc.; ataca a los corderos y animales enfermos. Fuente: Oxford Languages."
+100,Atarazcar,Lastimar con elemento cortopunzante.
+101,Yerro,Error que se comete por descuido. 
+102,Partida,Pequeño grupo de tropas que hace la descubierta. Fuente: diccionario RAE.
+103,Chaja,"Ave zancuda de hasta 90 cm de largo, de color gris con un anillo negro en el cuello, un pequeño copete y fuertes patas de color rojo; habita en campo abierto en zonas con agua, se alimenta de vegetales y pequeños invertebrados acuáticos y pone hasta seis huevos; tiene un grito penetrante que, convertido en onomatopeya, ha dado lugar a su nombre; se domestica con facilidad. Fuente: Oxford Languages."
+104,Morao,Cobarde.
+105,Mataco,Armadillo.
+106,Porron,Frasco de ginebra. Fuente: glosario gauchesco.
+107,Refalar,Quitarse. 
+108,Voz de preso,"Indica cuando alguien con autoridad, ej.: la policía, ordena que otro se entregue."
+109,Alzar por las cuarenta,Hace referencia a que la policía no le tendrá piedad.
+110,Indina,"Indigno, descarado. "
+111,Garifo,Altanero. 
+112,Tacuara,Caña utilizada como lanza que puede tener sujeto en un extremo un objeto cortopunzante.
+113,Yunta,Pareja de personas. 
+114,Pichel,"Vaso alto y redondo, ordinariamente de estaño, algo más ancho del suelo que de la boca, y con su tapa engoznada en el remate del asa. Fuente: diccionario RAE."
+115,Chifle,"Recipiente hecho de asta de vacuno, que se usa para transportar y beber líquidos, o para tomar mate. Fuente: diccionario de americanismos. "
+116,Saguaipé,Gusano parásito. 
+117,Tabas,"En pl., piernas de una persona."
+118,Noque,"Bolsa o recipiente de variado tamaño, hecho de cuero o de madera, destinado a la conservación o transporte de líquidos o cereales. Fuente: Oxford languages."
+119,Jedentina,Mal olor y otro intenso. 
+120,Berdugón,Roncha que surge por recibir un latigazo. 
+121,Fandanguillo,"Variante del fandango que es un baile popular de origen español, de movimiento vivo y apasionado."
+122,Changango,Guitarra.
+123,Pango,"Enredo, caos, confusión, embrollo. "
+124,Pipa,Tonel en que se conservan las bebidas. Fuente: glosario gauchesco.
+125,Lonjear,"De lonjear, hacer lonjas de cuero, después de descarnarlo y rasparle el pelo sin levantar la piel. Fuente: diccionario de americanismos."
+126,Lata,Sable. 
+127,Estricote,De manera dura y severa en el trato. Fuente: diccionario RAE.
+128,Suerte reculativa,Mala suerte. 
+129,Aviao,Proveerse o hacerse de algo.
+130,Plan de un bajo,Lugar al aire libre. Depresión del terreno. 
+131,Pata ancha,Enfrentar con coraje el peligro. 
