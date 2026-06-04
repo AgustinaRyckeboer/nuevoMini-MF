@@ -102,10 +102,10 @@
 
       
     <xsl:template match="//term">
-        <span> 
-            (<xsl:apply-templates/>)
-            <br/>
-        </span>
+         <a><xsl:attribute name="class">pop-annotation</xsl:attribute>
+        <xsl:attribute name="tabindex">0</xsl:attribute>
+        <xsl:attribute name="ref"><xsl:value-of select="ref"/></xsl:attribute>
+        <xsl:apply-templates/></a>
     </xsl:template>   
     
     <xsl:template match="//corr">
