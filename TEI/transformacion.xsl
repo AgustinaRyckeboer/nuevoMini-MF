@@ -101,7 +101,7 @@
     
 
       
-    <xsl:template match="//note">
+    <xsl:template match="//term">
         <span> 
             (<xsl:apply-templates/>)
             <br/>
