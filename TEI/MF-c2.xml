@@ -276,7 +276,7 @@
 
                 <lg type="estrofa" n="47" rhyme="abbccb">
                     <l>Ay comienzan sus desgr<rhyme label="acias" type="grave">acias</rhyme></l>
-                    <l>Ay principia el peric<rhyme label="on" type="aguda">on</rhyme>;</l>
+                    <l>Ay principia el <term ref="81">peric<rhyme label="on" type="aguda">on</rhyme></term>;</l>
                     <l>Porque ya no hay salvac<rhyme label="ion" type="aguda">ion</rhyme>,</l>
                     <l>Y que uste quiera ó no qu<rhyme label="iera" type="grave">iera</rhyme></l>
                     <l>Lo mandan á la front<rhyme label="era" type="grave">era</rhyme></l>
