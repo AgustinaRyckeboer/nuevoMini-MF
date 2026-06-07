@@ -110,7 +110,7 @@
     
     <xsl:template match="//corr">
         <span> 
-            <xsl:attribute name="style">font-style: italic;</xsl:attribute>
+            <xsl:attribute name="style">font-style: italic; color:green;</xsl:attribute>
             <xsl:apply-templates/>
         </span>
     </xsl:template>
