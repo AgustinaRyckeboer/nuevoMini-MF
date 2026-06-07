@@ -260,8 +260,9 @@
 
               </lg>      
                                         
-                    <lg type="estrofa" n="217" type="poema" style="décima" unisonancia="singular" isometrismo="isométrico" isoestrofismo="isoestrófico" asonancia="consonante" rhyme="abbccddeed" met="10x8">
-                        <l>En esto la negra v<rhyme label="ino" type="grave">ino</rhyme></l>
+                    <lg type="poema" style="décima" unisonancia="singular" isometrismo="isométrico" isoestrofismo="isoestrófico" asonancia="consonante" met="10x8">
+                       <lg type="estrofa" n="217" rhyme="abbccddeed"> 
+                       <l>En esto la negra v<rhyme label="ino" type="grave">ino</rhyme></l>
                         <l>Con los ojos como ag<rhyme label="i" type="aguda">i</rhyme>-</l>
                         <l>Y empeso la pobre all<rhyme label="i" type="aguda">i</rhyme></l>
                         <l>A bramar como una l<rhyme label="oba" type="grave">oba</rhyme>-</l>
@@ -271,6 +272,7 @@
                         <l>Que era malo en aquel p<rhyme label="unto" type="grave">unto</rhyme>,</l>
                         <l>Y por respeto al dij<rhyme label="unto" type="grave">unto</rhyme></l>
                         <l>No la quise castig<rhyme label="ar" type="aguda">ar</rhyme>.</l>
+                        </lg>
                     </lg>
 
               <lg type="poema" style="cuarteto" unisonancia="singular" isometrismo="isométrico" isoestrofismo="isoestrófico" met="4x8">      
