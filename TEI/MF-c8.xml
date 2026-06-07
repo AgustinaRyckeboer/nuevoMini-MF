@@ -23,51 +23,45 @@
             <body> 
 
             <head>Canto VIII</head>
-             <lg type="poema" style="cuarteto" unisonancia="singular" isometrismo="isométrico" isoestrofismo="isoestrófico"  met="4x8">
+             <lg type="poema" style="cuarteto" unisonancia="singular" isometrismo="isométrico" isoestrofismo="isoestrófico"  met="4x8" asonancia="libre">
              
              
-                    <lg type="estrofa" n="222" rhyme="abbc">
-                    <note>asonancia libre</note>             
+                    <lg type="estrofa" n="222" rhyme="abbc">                                 
                         <l>Otra vez en un bol<rhyme label="iche" type="grave">iche</rhyme></l>
                         <l>Estaba haciendo la t<rhyme label="arde" type="grave">arde</rhyme></l>
                         <l>Cayó un gaucho que hacia al<rhyme label="arde" type="grave">arde</rhyme></l>
                         <l>De guapo y de peliad<rhyme label="or" type="aguda">or</rhyme>-</l>
                     </lg>
                                      
-                    <lg type="estrofa" n="223" rhyme="abba">
-                    <note>asonancia libre</note>
+                    <lg type="estrofa" n="223" rhyme="abba">                    
                         <l>A la llegada met<rhyme label="io" type="aguda">ió</rhyme></l>
                         <l>El pingo hasta la <term ref="92">ram<rhyme label="ada" type="grave">ada</rhyme></term>-</l>
                         <l>Y yo sin decirle n<rhyme label="ada" type="grave">ada</rhyme></l>
                         <l>Me quedé en el mostrad<rhyme label="or" type="aguda">or</rhyme>.</l>
                     </lg>
                     
-                    <lg type="estrofa" n="224" rhyme="abbc">
-                    <note>asonancia libre</note>
+                    <lg type="estrofa" n="224" rhyme="abbc">                    
                         <l>Era un terne de aquel p<rhyme label="ago" type="grave">ago</rhyme></l>
                         <l>Que naides lo reprend<rhyme label="ia" type="grave">ia</rhyme>,</l>
                         <l>Que sus enriedos ten<rhyme label="ia" type="grave">ia</rhyme></l>
                         <l>Con el señor Comend<rhyme label="ante" type="grave">ante</rhyme>:-</l>
                     </lg>
                     
-                    <lg type="estrofa" n="225" rhyme="abbc">
-                    <note>asonancia libre</note>
+                    <lg type="estrofa" n="225" rhyme="abbc">                    
                         <l>Y como era protej<rhyme label="ido" type="grave">ido</rhyme>,</l>
                         <l>Andaba muy enton<rhyme label="ao" type="grave">ao</rhyme>-</l>
                         <l>Y á cualquier desgraci<rhyme label="ao" type="grave">ao</rhyme></l>
                         <l>Lo llevaba por del<rhyme label="ante" type="grave">ante</rhyme>.</l>
                     </lg>
                     
-                    <lg type="estrofa" n="226" rhyme="abbc">
-                    <note>asonancia libre</note>
+                    <lg type="estrofa" n="226" rhyme="abbc">                    
                         <l>Ah! pobre! si él mismo cr<rhyme label="eiba" type="grave">eiba</rhyme>,</l>
                         <l>Que la vida le sobr<rhyme label="aba" type="grave">aba</rhyme>,</l>
                         <l>Ninguno diria que and<rhyme label="aba" type="grave">aba</rhyme></l>
                         <l>Aguaitandolo la m<rhyme label="uerte" type="grave">uerte</rhyme>-</l>
                     </lg>
                     
-                    <lg type="estrofa" n="227" rhyme="abbc">
-                    <note>asonancia libre</note>
+                    <lg type="estrofa" n="227" rhyme="abbc">                    
                         <l>Pero ansi <corr>pasa</corr> en el m<rhyme label="undo" type="grave">undo</rhyme>,</l>
                         <l>Es ansi la triste v<rhyme label="ida" type="grave">ida</rhyme>-</l>
                         <l>Pa todos está escond<rhyme label="ida" type="grave">ida</rhyme>,</l>
