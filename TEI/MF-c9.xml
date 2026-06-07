@@ -229,7 +229,8 @@
                 </lg>
               </lg>  
                 
-                <lg type="estrofa" n="267" style="octava" rhyme="abbccddc" type="poema" unisonancia="singular" isometrismo="isométrico"  isoestrofismo="isoestrófico" asonancia="consonante" met="8x8">
+                <lg style="octava" type="poema" unisonancia="singular" isometrismo="isométrico"  isoestrofismo="isoestrófico" asonancia="consonante" met="8x8">
+                    <lg type="estrofa" n="267" rhyme="abbccddc">
                     <l>-"Vos sos un gaucho matr<rhyme label="ero" type="grave">ero</rhyme>"</l>
                     <l>Dijo uno haciendose el g<rhyme label="ueno" type="grave">üeno</rhyme>,</l>
                     <l>"Vos matastes un mor<rhyme label="eno" type="grave">eno</rhyme></l>
@@ -238,6 +239,7 @@
                     <l>"Que viene á justar tus c<rhyme label="uentas" type="grave">uentas</rhyme>,</l>
                     <l>"Te va á <term ref="109">alzar por las cuar<rhyme label="enta" type="grave">enta</rhyme></term></l>
                     <l>"Si te resistís hoy d<rhyme label="ia" type="grave">ia</rhyme>"</l>
+                    </lg>
                 </lg>
 
             <lg type="poema"  style="sexteto" unisonancia="singular" isometrismo="isométrico"  isoestrofismo="isoestrófico" asonancia="consonante" met="6x8">    
