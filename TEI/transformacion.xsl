@@ -63,6 +63,13 @@
         </p>
     </xsl:template>
 
+    <xsl:template match="//note">
+       <span> 
+            <xsl:attribute name="style">font-style: italic;</xsl:attribute>
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+
         <xsl:template match="//l[@rendition='estribillo']">
         <p class="estribillo">
             <xsl:apply-templates/>
