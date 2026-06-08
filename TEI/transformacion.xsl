@@ -65,7 +65,7 @@
 
     <xsl:template match="//note">
        <span> 
-            <xsl:attribute name="style">font-style: italic;</xsl:attribute>
+            <xsl:attribute name="style">font-style: italic; color: darkgoldenrod;</xsl:attribute>
             <xsl:apply-templates/>
         </span>
     </xsl:template>
