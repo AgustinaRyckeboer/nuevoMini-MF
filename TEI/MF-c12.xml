@@ -89,9 +89,13 @@
                         <l>Con la <term ref="126">lata</term> á la cint<rhyme label="ura" type="grave">ura</rhyme>.</l>
                     </lg>
                 
-                    <lg>
-                      <note>estrofa marcada como no legible</note>
-                      <l>-------------------------------</l>  
+                    <lg>                      
+                        <l>-------------------------------</l>
+                        <l>-------------------------------</l>
+                        <l>-------------------------------</l>
+                        <l>-------------------------------</l>
+                        <l>-------------------------------</l>
+                        <l>-------------------------------</l>  
                     </lg>
                     
                     <lg type="estrofa" n="357" rhyme="abbccb">
@@ -194,7 +198,7 @@
                     </lg>
                     
                     <lg type="estrofa" n="368" rhyme="abbccb">
-                      <note>el último verso tiene rima asonante</note>
+                      <note>Nota: el último verso tiene rima asonante</note>
                         <l>De los males que sufr<rhyme label="imos" type="grave">imos</rhyme></l>
                         <l>Hablan mucho los puebl<rhyme label="eros" type="grave">eros</rhyme>,</l>
                         <l>Pero hacen como los t<rhyme label="eros" type="grave">eros</rhyme></l>

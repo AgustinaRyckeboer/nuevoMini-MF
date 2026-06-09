@@ -100,7 +100,7 @@
                 </lg>
                 
                 <lg type="estrofa" n="378" rhyme="abbccb">
-                    <note>el último verso tiene rima asonante</note>
+                    <note>Nota: el último verso tiene rima asonante</note>
                     <l>Yo sé que allá los cac<rhyme label="iques" type="grave">iques</rhyme></l>
                     <l>Amparan á los crist<rhyme label="ianos" type="grave">ianos</rhyme>,</l>
                     <l>Y que los tratan de "Herm<rhyme label="anos" type="grave">anos</rhyme>"</l>
@@ -182,7 +182,7 @@
                 </lg>
                 
                 <lg type="estrofa" n="387" rhyme="abbccb">
-                  <note>la rima en el cuarto y quinto verso es asonante</note>
+                  <note>Nota: el cuarto y quinto verso tienen rima asonante</note>
                     <l>Allá no hay que trabaj<rhyme label="ar" type="aguda">ar</rhyme>,</l>
                     <l>Vive uno como un señ<rhyme label="or" type="aguda">or</rhyme>-</l>
                     <l>De cuando en cuando un mal<rhyme label="on" type="aguda">on</rhyme></l>
@@ -219,8 +219,12 @@
                 </lg>
                 
                 <lg>
-                    <note>estrofa marcada como ilegible</note>
-                    <l>--------------------------------</l>
+                    <l>-------------------------------</l>
+                    <l>-------------------------------</l>
+                    <l>-------------------------------</l>
+                    <l>-------------------------------</l>
+                    <l>-------------------------------</l>
+                    <l>-------------------------------</l>                    
                 </lg>
                 
                 <lg type="estrofa" n="391" rhyme="abbccb">

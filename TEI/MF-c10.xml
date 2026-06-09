@@ -155,7 +155,7 @@
                 </lg>
                 
                 <lg type="estrofa" n="308" rhyme="abcbdb">
-                <note>asonancia libre</note>
+                <note>Nota: asonancia libre</note>
                     <l>Era la águila que á un <rhyme label="arbol" type="grave">arbol</rhyme></l>
                     <l>Dende las nubes baj<rhyme label="o" type="aguda">ó</rhyme>,</l>
                     <l>Era mas linda que el <rhyme label="alba" type="grave">alba</rhyme></l>
@@ -219,7 +219,7 @@
                 </lg>
                 
                 <lg type="estrofa" n="315" rhyme="abbcbc">
-                  <note>la rima en el quinto verso es asonante</note>
+                  <note>Nota: la rima en el quinto verso es asonante</note>
                     <l>Tenia el viejito una c<rhyme label="ara" type="grave">ara</rhyme></l>
                     <l>De ternero mal lam<rhyme label="ido" type="grave">ido</rhyme>,</l>
                     <l>Y al verle tan atrev<rhyme label="ido" type="grave">ido</rhyme></l>
@@ -229,7 +229,7 @@
                 </lg>
                 
                 <lg type="estrofa" n="316" rhyme="abbcdc">
-                <note>la rima en el quinto verso es libre</note>
+                <note>Nota: la rima en el quinto verso es libre</note>
                     <l>Peló la espada-y se v<rhyme label="ino" type="grave">ino</rhyme></l>
                     <l>Como á quererme ensart<rhyme label="ar" type="aguda">ar</rhyme>,</l>
                     <l>Pero yo sin tutub<rhyme label="iar" type="aguda">iar</rhyme></l>
