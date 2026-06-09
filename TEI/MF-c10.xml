@@ -218,8 +218,7 @@
                     <l>Abrazandome á la ch<rhyme label="ina" type="grave">ina</rhyme>.</l>
                 </lg>
                 
-                <lg type="estrofa" n="315" rhyme="abbcbc">
-                  <note>Nota: el quinto verso tiene rima asonante</note>
+                <lg type="estrofa" n="315" rhyme="abbcdc">
                     <l>Tenia el viejito una c<rhyme label="ara" type="grave">ara</rhyme></l>
                     <l>De ternero mal lam<rhyme label="ido" type="grave">ido</rhyme>,</l>
                     <l>Y al verle tan atrev<rhyme label="ido" type="grave">ido</rhyme></l>
@@ -244,7 +243,7 @@
                     <l>Y en cuanto se lo quit<rhyme label="e" type="aguda">é</rhyme></l>
                     <l>Para no matar un v<rhyme label="iejo" type="grave">iejo</rhyme>,</l>
                     <l>Con cuidao, medio de l<rhyme label="ejo" type="grave">ejo</rhyme>,</l>
-                    <l>Un planaso le asent<rhyme label="e" type="aguda">é</rhyme>.</l>
+                    <l>Un <term ref="87">planaso</term> le asent<rhyme label="e" type="aguda">é</rhyme>.</l>
                 </lg>
                 
                 <lg type="estrofa" n="318" rhyme="abbccb">
