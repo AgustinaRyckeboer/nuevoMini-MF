@@ -29,7 +29,7 @@
 
 
                 <lg type="estrofa" n="20" rhyme="abbccb"> 
-                <note>el último verso tiene rima asonante</note>
+                <note>Nota: el último verso tiene rima asonante</note>
                     <l>Ninguno me hable de p<rhyme label="enas" type="grave">enas</rhyme></l>
                     <l>Porque yo penando v<rhyme label="ivo" type="grave">ivo</rhyme>-</l>
                     <l>Y naides se muestre alt<rhyme label="ivo" type="grave">ivo</rhyme></l>
@@ -229,7 +229,7 @@
                 </lg>
 
                 <lg type="estrofa" n="42" rhyme="abbccb">
-                <note>el último verso tiene rima asonante </note>
+                <note>Nota: el último verso tiene rima asonante </note>
                     <l>Venia la carne con cu<rhyme label="ero" type="grave">ero</rhyme>,</l>
                     <l>La sabrosa carbon<rhyme label="ada" type="grave">ada</rhyme>,</l>
                     <l>Mazamorra bien pis<rhyme label="ada" type="grave">ada</rhyme></l>

@@ -100,7 +100,7 @@
                     </lg>
 
                     <lg type="estrofa" n="9" rhyme="abbccb">
-                    <note>el último verso tiene rima asonante</note>
+                    <note> Nota: el último verso tiene rima asonante</note>
                         <l>Yo no soy cantor letr<rhyme label="ao" type="aguda">ao</rhyme>,</l>
                         <l>Mas si me pongo á cant<rhyme label="ar" type="aguda">ar</rhyme></l>
                         <l>No tengo cuando acab<rhyme label="ar" type="aguda">ar</rhyme></l>
@@ -108,7 +108,7 @@
                         <l>Las coplas me van brot<rhyme label="ando" type="grave">ando</rhyme></l>
                         <l>Como agua de manant<rhyme label="ial" type="aguda">ial</rhyme>.</l>
                     </lg>
-<note type="episodio" xml:id="negro"></note>
+
                     <lg type="estrofa" n="10" rhyme="abbcbc">
                         <l>Con la guitarra en la m<rhyme label="ano" type="grave">ano</rhyme></l>
                         <l>Ni las moscas se me arr<rhyme label="iman" type="grave">iman</rhyme>,</l>
@@ -146,7 +146,7 @@
                     </lg>
 
                     <lg type="estrofa" n="14" rhyme="abbcbc">
-                    <note> la rima en 'c' es asonante</note>
+                    <note>Nota: la rima en 'c' es asonante</note>
                         <l>Soy gaucho, y entiendanl<rhyme label="o" type="aguda">ó</rhyme></l>
                         <l>Como mi lengua lo espl<rhyme label="ica" type="grave">ica</rhyme>,</l>
                         <l>Para mí la tierra es ch<rhyme label="ica" type="grave">ica</rhyme></l>

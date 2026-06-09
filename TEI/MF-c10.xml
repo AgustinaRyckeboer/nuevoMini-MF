@@ -219,7 +219,7 @@
                 </lg>
                 
                 <lg type="estrofa" n="315" rhyme="abbcbc">
-                  <note>Nota: la rima en el quinto verso es asonante</note>
+                  <note>Nota: el quinto verso tiene rima asonante</note>
                     <l>Tenia el viejito una c<rhyme label="ara" type="grave">ara</rhyme></l>
                     <l>De ternero mal lam<rhyme label="ido" type="grave">ido</rhyme>,</l>
                     <l>Y al verle tan atrev<rhyme label="ido" type="grave">ido</rhyme></l>
@@ -229,7 +229,7 @@
                 </lg>
                 
                 <lg type="estrofa" n="316" rhyme="abbcdc">
-                <note>Nota: la rima en el quinto verso es libre</note>
+                <note>Nota: el quinto verso tiene asonancia libre</note>
                     <l>Peló la espada-y se v<rhyme label="ino" type="grave">ino</rhyme></l>
                     <l>Como á quererme ensart<rhyme label="ar" type="aguda">ar</rhyme>,</l>
                     <l>Pero yo sin tutub<rhyme label="iar" type="aguda">iar</rhyme></l>
