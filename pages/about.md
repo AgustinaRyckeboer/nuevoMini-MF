@@ -20,7 +20,7 @@ Es esa primera edición publicada en diciembre de 1872, y pensada más como un f
 
 La presente edición digital ofrece al lector una digitalización y texto digital anotado que busca facilitar, mediante notas emergentes, la comprensión del poema, ya que gran parte del léxico presente es propio del mundo del campo o del habla del gaucho, y puede resultar extraño para aquellos no pertenecientes al mismo, especialmente las generaciones más jóvenes. Esta anotación es además parte de un vocabulario controlado publicado en la plataforma terminológica de la Facultad de Filosofía y Letras de la Universidad de Buenos Aires. Además, al pasar el curso por el final del verso se resaltan las rimas y se ofrecen elementos clave del poema como la rima y estructura métrica.
 
-<p>Sobre esta edición, consúltese: Ryckeboer, M. A. (2024). El MiniFierro, la edición digital del poema gaucho. Publicaciones de la Asociación Argentina de Humanidades Digitales, 5, e061. https://doi.org/10.24215/27187470e061 <a href="https://doi.org/10.24215/27187470e061">https://doi.org/10.24215/27187470e061</a></p>
+<p>Sobre esta edición, consúltese: Ryckeboer, M. A. (2024). El MiniFierro, la edición digital del poema gaucho. Publicaciones de la Asociación Argentina de Humanidades Digitales, 5, e061. <a href="https://doi.org/10.24215/27187470e061">https://doi.org/10.24215/27187470e061</a></p>
 
 Las editoras agradecen al Dr. Gabriel Calarco, así como al apoyo recibido por la carrera de Historia de la Facultad de Filosofía, Letras, Historia y Estudios Orientales de la Universidad del Salvador en la difusión de este trabajo de investigación.
 
