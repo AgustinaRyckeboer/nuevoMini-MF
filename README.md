@@ -1,2 +1,2 @@
-# plantilla-colecciones
-Plantilla para construir sitios estáticos para colecciones documentales, desarrollada por el HDLab-CONICET. 
+# Edición digital de la primera publicación del Martín Fierro de José Hernández
+Edición digtal en XML-TEI de la edición de la publicación de 1872 del Martín Fierro de Hernández. Texto digitalizado y edición digital anotada a partir de un vocabulario controlado, con información sobre métrica y rima y rimas destacadas en el texto. La edición se hizo con la plantilla para construir sitios estáticos para colecciones documentales, desarrollada por el HD LAB-CONICET sobre la plantilla csv de CollectionBuilder.
